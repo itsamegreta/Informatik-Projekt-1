@@ -10,4 +10,4 @@ Da wir diesen Stundenblog führen sollen, haben wir uns zudem den Blog von Herrn
 
 Heute haben wir unsere Projektidee besprochen. Unsere erste Idee ist ein einfaches Jump and Run Spiel. Dafür haben wir uns nach einiger Recherche und einer Absprache mit Herrn Buhl statt für Scratch für die Programmiersprache Snap! entschieden, welche auf Scratch aufgebaut ist. 
 
-Dafür haben wir uns beide zuerst einen eigenen Account erstellt.
+Um die gewählte Programmiersprache zu nutzen, haben wir uns beide einen eigenen Account erstellt, mit denen wir versuchen wollen uns bis zur nächsten Woche ein wenig in die Sprache einzuarbeiten, da wir beide keine bisherigen Erfahrungen damit haben.
