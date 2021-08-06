@@ -1,4 +1,4 @@
-![89326E12-612C-498C-83B5-3AA05850E524](https://user-images.githubusercontent.com/88386040/128574116-6ce12e83-cb94-42cb-9429-309a394dd365.jpeg)
+
 # Projektblog Projekt 1
 
 ## Dienstag, 03. August 2021
@@ -22,5 +22,6 @@ Während des Programmierens habe ich mir verschiedene Tutorials angeshen, in den
 Anbei mehrere Screenshots des Codes und einer des einfachgehaltenen Spiels![BDAD82AF-763A-40DE-B13F-29BAB4F28C34](https://user-images.githubusercontent.com/88386040/128574017-0d26d227-1c57-412d-9c56-54bf15c123ec.jpeg)
 ![5A54C0D7-583F-4854-A0AB-19041E57F9A0](https://user-images.githubusercontent.com/88386040/128574021-23659eef-983b-4dba-9268-fca7e65c9fbc.jpeg)
 ![7BD37E60-DE95-409A-9D78-83A0B576B89C](https://user-images.githubusercontent.com/88386040/128574023-f7ae731a-f108-4d56-8b3a-3cc4538ee109.jpeg)
+![6EFA2AEB-3C18-4937-AAB9-33B35627F1F3](https://user-images.githubusercontent.com/88386040/128574198-b6a42051-d8c6-4848-b957-eb4f9206749f.jpeg)
 
 
