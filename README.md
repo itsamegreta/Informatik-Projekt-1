@@ -1,3 +1,4 @@
+![89326E12-612C-498C-83B5-3AA05850E524](https://user-images.githubusercontent.com/88386040/128574116-6ce12e83-cb94-42cb-9429-309a394dd365.jpeg)
 # Projektblog Projekt 1
 
 ## Dienstag, 03. August 2021
