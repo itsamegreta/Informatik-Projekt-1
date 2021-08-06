@@ -15,7 +15,7 @@ Um die gewählte Programmiersprache zu nutzen, haben wir uns beide einen eigenen
 
 ### Mittwoch, 04. August 2021 
 
-Heute nach der Informatikstunde habe ich (Greta) mich zu Hause noch weiter mit Snap! beschäftigt und erste Versuche unternommen ein Spiel zu programmieren. Mein Ziel war etwas zu schaffen, das mit einem "Laser" einen sich bewegenen Gegenstamd abschießen kann und sich durch die Pfeiltasten nach Links und Rechts bewegen lässt. Dafür habe ich einfache Formen mit dem Paint Tool gemalt, da es mir nur darum ging die Programmiersprache zu verstehen und nicht ein wirkliches Spiel mit Animationen zu erstellen. 
+Heute nach der Informatikstunde habe ich (Greta) mich zu Hause noch weiter mit Snap! beschäftigt und erste Versuche unternommen ein Spiel zu programmieren. Mein Ziel war etwas zu schaffen, das mit einem "Laser" einen sich bewegenen Gegenstand abschießen kann, welcher wenn er getroffen wird die Farbe ändert und nach einer Sekunde verschwindet. Das ganze sollte sich durch die Pfeiltasten nach Links und Rechts bewegen lassen. Dafür habe ich einfache Formen mit dem Paint Tool gemalt, da es mir nur darum ging die Programmiersprache zu verstehen und nicht ein wirkliches Spiel mit Animationen zu erstellen. 
 
 Während des Programmierens habe ich mir verschiedene Tutorials angeshen, in denen verschiedene Schritte erklärt wurden. Für einen ersten Versuch etwas mit Snap! zu programmieren hat es meiner Meinung nach für Testzwecke ganz gut funktioniert und es hatkürzer gedauert als ich erwartet habe. 
 
