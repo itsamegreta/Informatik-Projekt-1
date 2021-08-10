@@ -26,5 +26,5 @@ Anbei mehrere Screenshots des Codes und einer des einfachgehaltenen Spiels![BDAD
 
 ### Dienstag, 10. August 2022
 
-Heute habe ich (Laura) alleine (da Greta krank war) mich weiter mit Snap! beschäftigt. Ich habe versucht ein Spiel zu programmieren. Dabei habe
+Heute habe ich (Laura) alleine (da Greta krank war) mich weiter mit Snap! beschäftigt. Ich wollte erst einmal noch mal mehr mich mit Snap! auseinandersetzen und die Programmiersprache besser zu verstehen. Dabei habe ich die erste Unit auf der Seite https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/2-start-your-first-snap-app.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment durchgearbeitet. 
 
