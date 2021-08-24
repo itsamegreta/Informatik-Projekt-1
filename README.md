@@ -24,7 +24,12 @@ Anbei mehrere Screenshots des Codes und einer des einfachgehaltenen Spiels![BDAD
 ![7BD37E60-DE95-409A-9D78-83A0B576B89C](https://user-images.githubusercontent.com/88386040/128574023-f7ae731a-f108-4d56-8b3a-3cc4538ee109.jpeg)
 ![6EFA2AEB-3C18-4937-AAB9-33B35627F1F3](https://user-images.githubusercontent.com/88386040/128574198-b6a42051-d8c6-4848-b957-eb4f9206749f.jpeg)
 
-### Dienstag, 10. August 2022
+### Dienstag, 10. August 2021
 
 Heute habe ich (Laura) alleine (da Greta krank war) mich weiter mit Snap! beschäftigt. Mein Ziel für die Stunde war es, dass ich mich noch mal mehr mit Snap! auseinadersetze und die Programmiersprache verstehe. Dafür habe ich auf den Blog von Herrn Buhl habe ich die Seite: https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/2-start-your-first-snap-app.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment gefunden. Dort habe ich die erste Unit durchgearbeitet. Jetzt kann mein Kreis zum Beispiel reden, wenn man die grüne Fahne drückt oder er bewegt sich, wenn man auf den Kreis drückt. Außerdem habe ich noch andere Funktionen getestet und habe mein Ziel erreicht für die heutige Stunde erreicht. 
 
+### Dienstag, 24. August 2021
+
+Heute haben wir zusammen unseren Spielcharakter überarbeitet, der zuvor von uns designed wurde, da er wenn man ihn in Snap! importiert hat durch die schlechtere Qualität kaum erkennen konnte. Deshalb haben wir uns für eine "Pixel-Version" des Charakters entschieden (siehe Bilder). 
+
+Außerdem haben wir begonnen zu programmieren, dass der Dinosaurier sich durch die Pfeiltasten in verschiedene Richtungen bewegen kann.  
