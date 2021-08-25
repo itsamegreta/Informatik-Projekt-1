@@ -33,3 +33,7 @@ Heute habe ich (Laura) alleine (da Greta krank war) mich weiter mit Snap! besch�
 Heute haben wir zusammen unseren Spielcharakter überarbeitet, der zuvor von uns designed wurde, da er wenn man ihn in Snap! importiert hat durch die schlechtere Qualität kaum erkennen konnte. Deshalb haben wir uns für eine "Pixel-Version" des Charakters entschieden (siehe Bilder). 
 
 Außerdem haben wir begonnen zu programmieren, dass der Dinosaurier sich durch die Pfeiltasten in verschiedene Richtungen bewegen kann. Dabi hat sich das Problem ergeben, dass der Dinosaurier sich bis jetzt nur überkopf zurückbewegen kann. Mit diesem Problem werden wir uns in der nächsten Stunde beschäftigen. 
+
+### Mittwoch, 25. August 2021
+
+Zu Beginn der Stunde haben wir unsere Dinosaurier-Grafik gespiegelt und so geändert, dass das Costume sich beim Laufen nach Links mit den Pfeiltasten zu dem Zweiten, also dem nach links guckenden Dino ändert. Damit haben wir das Problem, das am Ende der letzten Stunde aufgetreten ist, gelöst. 
