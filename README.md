@@ -42,3 +42,4 @@ Zudem haben wir programmiert, dass der Dinosaurier, sobald er den Rand berührt,
 
 ![E09D73DD-3B62-427C-9EC0-2122D7EA06AD](https://user-images.githubusercontent.com/88386040/131507219-c3815d49-416b-4d7f-98a2-086e9f45d7d3.jpeg)
 
+### Dienstag, 31. August 2021
