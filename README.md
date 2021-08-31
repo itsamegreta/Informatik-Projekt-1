@@ -40,4 +40,5 @@ Zu Beginn der Stunde haben wir unsere Dinosaurier-Grafik gespiegelt und so geän
 
 Zudem haben wir programmiert, dass der Dinosaurier, sobald er den Rand berührt, auf die Koordinate (-170/-110), also relativ weit in die untere, linke Ecke gesetzt wird um die Wirkung eines fortlaufenden Hintergrundes zu erzeugen. Wir haben außerdem die Bewegungsgeschwindigkeit des Dinos herabgesetzt und werden uns in der nächsten Stunde mit dem realistischen Springen beschäftigen. 
 
-https://isurfstormarn.de/iserv/fs/file/mail/INBOX/693/1/E09D73DD-3B62-427C-9EC0-2122D7EA06AD.jpeg
+![E09D73DD-3B62-427C-9EC0-2122D7EA06AD](https://user-images.githubusercontent.com/88386040/131507219-c3815d49-416b-4d7f-98a2-086e9f45d7d3.jpeg)
+
