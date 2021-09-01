@@ -47,3 +47,5 @@ Zudem haben wir programmiert, dass der Dinosaurier, sobald er den Rand berührt,
 Heute haben wir uns zu Beginn der Stunde mit dem realistischen Springen der Figur beschäftigt. Dies hat semi gut geklappt. Außerdem haben wir begonnen "Meteoriten" als neue Spites zu erstellen, welche an verschiedenen Stellen und Zeitpunkten auf den Dinosaurier fallen. Wenn man es mit dem Dinosaurier nicht schafft auszuweichen und von einem Meteoriten getroffen wird, stirbt der Dino, bzw. das Costume wird geändert, und wird nach einigen Sekunden wieder in seinem alten, lebenden Costume gezeigt, woraufhin der Spieler weiter spielen kann. Wir haben zudem begonnen die Meteoriten und die weitere Dino-Grafik zu erstellen.
 
 Wir müssen jedoch noch Hindernisse erstellen und uns überlegen, ob man beim Treffen eines Meteors oder Hindernissen ein Leben verliert, nichts passiert oder von vorne begonnen werden muss. Wenn wir diese Frage geklärt haben können wir auch daran weiterarbeiten.
+
+### Mittwoch, 1. September 2021
