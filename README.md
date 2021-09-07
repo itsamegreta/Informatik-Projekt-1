@@ -56,4 +56,6 @@ Danach hat sich das Problem ergeben, dass der Dinosaurier trotz durchführung al
 
 ### Dienstag, 7. September 2021
 
-Das Problem von der letzten Stunde konnte nicht gelöst werden. Deshalb habe ich (Laura) auf die zuletzt gespeicherte Version, wo alles noch funktioniert hat, zugegriffen. Ich habe die Meterioiten Grafik eingefügt. Dabei hat sich nur das Problem ergeben, dass bisher der Meterioit von oben senkrecht runter fällt. Dies ist jedoch nicht wirklich realistisch. Daher habe ich versucht einen Weg zu finden, dass der Meterioit leicht schräg ins Bild fliegt. 
+Das Problem von der letzten Stunde konnte nicht gelöst werden. Deshalb habe ich (Laura) auf die zuletzt gespeicherte Version, wo alles noch funktioniert hat, zugegriffen. Ich habe die Meteoriten Grafik erneut eingefügt. Dabei hat sich nur das Problem ergeben, dass bisher der Meteorit von oben senkrecht runter fällt. Dies ist jedoch nicht wirklich realistisch. Daher habe ich versucht einen Weg zu finden, dass der Meteorit leicht schräg ins Bild fliegt. 
+
+Der Meteorit fliegt jetzt leicht schräg ins Bild. Ich habe das Problem gelöst, indem ich ein "point in direction 210" eingefügt habe. Der Meteorit liegt jedoch immer noch nicht richtig. Um das Problem zu lösen habe ich noch mehrere Meteoriten angefertig die verschieden gedreht sind. Dabei war jedoch immer noch nicht der perfekte dabei. Um das Problem werden wir uns nächste Stunde kümmern. Außerdem müssen wir die dritte Dino-Grafik noch etwas hoch setzen, damit das ganze realistischer aussieht. 
