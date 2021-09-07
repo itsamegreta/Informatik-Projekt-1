@@ -53,3 +53,7 @@ Wir müssen jedoch noch Hindernisse erstellen und uns überlegen, ob man beim Tr
 Zu Beginn der Stunde haben wir die dritte Dino-Grafik und den Meteoriten fertig gestellt. Diese haben wir begonnen ins Spiel einzufügen und haben die Koordniaten der Dino-Grafik (neu) so eingestellt, dass dieser sich auf unserer "Bodenebene" befindet. 
 
 Danach hat sich das Problem ergeben, dass der Dinosaurier trotz durchführung aller Befehle und Funktion der Pfeiltasten und Laufbewegung nicht mehr angezeigt wurde. Das Problem konnte auch durch einen Neustart nicht gelöst werden und wir werden uns in der nächsten Stunde damit beschäftigen und im Notfall auf unsere letzte gespeicherte Version vor der Stunde heute zugreifen.
+
+### Dienstag, 7. September 2021
+
+Das Problem von der letzten Stunde konnte nicht gelöst werden. Deshalb habe ich (Laura) auf die zuletzt gespeicherte Version, wo alles noch funktioniert hat, zugegriffen. Ich habe die Meterioiten Grafik eingefügt. Dabei hat sich nur das Problem ergeben, dass bisher der Meterioit von oben senkrecht runter fällt. Dies ist jedoch nicht wirklich realistisch. Daher habe ich versucht einen Weg zu finden, dass der Meterioit leicht schräg ins Bild fliegt. 
