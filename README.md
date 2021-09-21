@@ -73,3 +73,5 @@ Bei der Beschäftigung mit dem Problem des Meteoriten, haben wir uns geeinigt, d
 ![inf 21 2](https://user-images.githubusercontent.com/88386040/134183772-1c28061e-7057-4f72-8633-f457c48d4424.PNG)
 
 ![Informatik 21 9](https://user-images.githubusercontent.com/88386040/134183781-8537e62c-79c9-431d-a6c2-cfdcbcdc3099.PNG)
+
+### Mittwoch, 22. September 2021
