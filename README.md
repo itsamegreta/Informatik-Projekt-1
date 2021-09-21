@@ -68,6 +68,6 @@ Heute habe ich (Laura, weil Greta immer noch krank ist) die dritte Dino-Grafik n
 
 Heute haben wir uns weiter mit der Meteoriten-Grafik und der Grafik des toten Dinos beschäftigt. Nachdem wir die Grafik des Dinos in Positionierung und Größe überarbeitet haben, haben wir sie wieder in das Spiel eingefügt und die Position etc. bearbeitet, bis wir zu dem gewünschten Ergebnis gekommen sind. 
 
-Bei der Beschäftigung mit dem Problem des Meteoriten, haben wir uns geeinigt, dass diese doch nur senkrecht nach unten fallen sollen, da dies das Spiel vereinfacht und eine Lösung für das Problem zu finden, vereinfacht. Nachdem wir die Grafik mit Hilfe von Procreate gedreht und angepasst haben, konnten wir sie erneut ins Spiel einfügen und richtig positionieren. Somit haben wir die beiden Probleme der letzten Stunden erfolgreich gelöst. 
+Bei der Beschäftigung mit dem Problem des Meteoriten, haben wir uns geeinigt, dass diese doch nur senkrecht nach unten fallen sollen, da dies das Spiel vereinfacht und eine Lösung für das Problem zu finden, vereinfacht. Nachdem wir die Grafik mit Hilfe von Procreate gedreht und angepasst haben, konnten wir sie erneut ins Spiel einfügen und richtig positionieren. Somit haben wir die beiden Probleme der letzten Stunden erfolgreich gelöst und haben noch einen weiteren Meteoriten hinzugefügt.
 
 ![Informatik 21 9](https://user-images.githubusercontent.com/88386040/134182898-5663e380-0b66-4ac1-b1f4-d71a25973c8f.PNG)
