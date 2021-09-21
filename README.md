@@ -62,4 +62,10 @@ Der Meteorit fliegt jetzt leicht schräg ins Bild. Ich habe das Problem gelöst,
 
 ### Mittwoch, 8. September 2021
 
-Heute habe ich (Laura, weil Greta immer noch krank ist) die dritte Dino-Grafik noch einmal bearbeitet, in der Hoffnung, dass der Dinosaurier runtergesetzt ist. Jedoch konnte ich die Grafik noch nicht einfügen, da Snap! nach nehreren Versuchen auf dem Computer nicht geöffnet wurde. Insgesamt gab es Schwierigkeiten mit den Computern und der Serververbindung. Deshalb habe ich insgesamt nur die Dino-Grafik bearbeitet, weil diese von den Problemen unabhängig war. 
+Heute habe ich (Laura, weil Greta immer noch krank ist) die dritte Dino-Grafik noch einmal bearbeitet, in der Hoffnung, dass der Dinosaurier runtergesetzt ist. Jedoch konnte ich die Grafik noch nicht einfügen, da Snap! nach mehreren Versuchen auf dem Computer nicht geöffnet wurde. Insgesamt gab es Schwierigkeiten mit den Computern und der Serververbindung. Deshalb habe ich insgesamt nur die Dino-Grafik bearbeitet, weil diese von den Problemen unabhängig war. 
+
+### Dienstag, 21. September 2021
+
+Heute haben wir uns weiter mit der Meteoriten-Grafik und der Grafik des toten Dinos beschäftigt. Nachdem wir die Grafik des Dinos in Positionierung und Größe überarbeitet haben, haben wir sie wieder in das Spiel eingefügt und die Position etc. bearbeitet, bis wir zu dem gewünschten Ergebnis gekommen sind. 
+
+Bei der Beschäftigung mit dem Problem des Meteoriten, haben wir uns geeinigt, dass diese doch nur senkrecht nach unten fallen sollen, da dies das Spiel vereinfacht und eine Lösung für das Problem zu finden, vereinfacht. Nachdem wir die Grafik mit Hilfe von Procreate gedreht und angepasst haben, konnten wir sie erneut ins Spiel einfügen und richtig positionieren. Somit haben wir die beiden Probleme der letzten Stunden erfolgreich gelöst. 
