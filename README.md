@@ -30,7 +30,9 @@ Heute habe ich (Laura) alleine (da Greta krank war) mich weiter mit Snap! besch�
 
 ### Dienstag, 24. August 2021
 
-Heute haben wir zusammen unseren Spielcharakter überarbeitet, der zuvor von uns designed wurde (siehe Bild links), da er wenn man ihn in Snap! importiert hat durch die schlechtere Qualität kaum erkennen konnte (siehe Mitte). Deshalb haben wir uns für eine "Pixel-Version" des Charakters entschieden (siehe rechts). 
+Heute haben wir zusammen unseren Spielcharakter überarbeitet, der zuvor von uns designed wurde (siehe Bild links), da er wenn man ihn in Snap! importiert hat durch die schlechtere Qualität kaum erkennen konnte (siehe Mitte). Deshalb haben wir uns für eine "Pixel-Version" des Charakters entschieden (siehe rechts).
+
+![E09D73DD-3B62-427C-9EC0-2122D7EA06AD](https://user-images.githubusercontent.com/88386040/131507219-c3815d49-416b-4d7f-98a2-086e9f45d7d3.jpeg)
 
 Außerdem haben wir begonnen zu programmieren, dass der Dinosaurier sich durch die Pfeiltasten in verschiedene Richtungen bewegen kann. Dabi hat sich das Problem ergeben, dass der Dinosaurier sich bis jetzt nur überkopf zurückbewegen kann. Mit diesem Problem werden wir uns in der nächsten Stunde beschäftigen. 
 
@@ -39,8 +41,6 @@ Außerdem haben wir begonnen zu programmieren, dass der Dinosaurier sich durch d
 Zu Beginn der Stunde haben wir unsere Dinosaurier-Grafik gespiegelt und so geändert, dass das Costume sich beim Laufen nach Links mit den Pfeiltasten zu dem Zweiten, also dem nach links guckenden Dino ändert. Damit haben wir das Problem, das am Ende der letzten Stunde aufgetreten ist, gelöst. 
 
 Zudem haben wir programmiert, dass der Dinosaurier, sobald er den Rand berührt, auf die Koordinate (-170/-110), also relativ weit in die untere, linke Ecke gesetzt wird um die Wirkung eines fortlaufenden Hintergrundes zu erzeugen. Wir haben außerdem die Bewegungsgeschwindigkeit des Dinos herabgesetzt und werden uns in der nächsten Stunde mit dem realistischen Springen beschäftigen. 
-
-![E09D73DD-3B62-427C-9EC0-2122D7EA06AD](https://user-images.githubusercontent.com/88386040/131507219-c3815d49-416b-4d7f-98a2-086e9f45d7d3.jpeg)
 
 ### Dienstag, 31. August 2021
 
