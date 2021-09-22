@@ -70,10 +70,12 @@ Heute haben wir uns weiter mit der Meteoriten-Grafik und der Grafik des toten Di
 
 Bei der Beschäftigung mit dem Problem des Meteoriten, haben wir uns geeinigt, dass diese doch nur senkrecht nach unten fallen sollen, da dies das Spiel vereinfacht und eine Lösung für das Problem zu finden, vereinfacht. Nachdem wir die Grafik mit Hilfe von Procreate gedreht und angepasst haben, konnten wir sie erneut ins Spiel einfügen und richtig positionieren. Somit haben wir die beiden Probleme der letzten Stunden erfolgreich gelöst und haben noch einen weiteren Meteoriten hinzugefügt. 
 
-Wir haben außerdem damit begonnen den Hintergrund zu gestalten. Dies werden wir in der nächsten Stunde fortsetzen. 
+Wir haben außerdem damit begonnen den Hintergrund zu gestalten. Dafür haben wir bereits einen Vulkan in Pixel Grafik estellt. Dies werden wir in der nächsten Stunde fortsetzen. 
 
 ![inf 21 2](https://user-images.githubusercontent.com/88386040/134183772-1c28061e-7057-4f72-8633-f457c48d4424.PNG)
 
 ![Informatik 21 9](https://user-images.githubusercontent.com/88386040/134183781-8537e62c-79c9-431d-a6c2-cfdcbcdc3099.PNG)
 
 ### Mittwoch, 22. September 2021
+
+Wir haben heute weiter an dem Hintergrund gearbeitet. Dafür haben wir den Vulkan aus der letzten Stunde weiter bearbeitet und zusätzliche eine Palme erstellt, welche wir in den Hintergrund einfügen wollen. Unser Ziel ist es den Hintergund in der nächsten Stunde fertig zu stellen. 
