@@ -79,3 +79,7 @@ Wir haben außerdem damit begonnen den Hintergrund zu gestalten. Dafür haben wi
 ### Mittwoch, 22. September 2021
 
 Wir haben heute weiter an dem Hintergrund gearbeitet. Dafür haben wir den Vulkan aus der letzten Stunde weiter bearbeitet und zusätzliche eine Palme erstellt, welche wir in den Hintergrund einfügen wollen. Unser Ziel ist es den Hintergund in der nächsten Stunde fertig zu stellen. 
+
+### Dienstag, 28. September 2021
+
+Wir haben heute noch mehr Meteoriten zu dem Spiel hinzugefügt. Diese fallen jetzt zu verschieschedenen Zeitpunkten und an verschiedenen Stellen herunter. Außerdem haben wir den Hintergrund weiter bearbeitet. Der Hintergrund ist noch nicht ganz fertig gestellt, darum werden wir diesen nächste Stunde noch weiter bearbeiten. Wir haben uns außerdem mit dem Ende des Spiel befasst. 
