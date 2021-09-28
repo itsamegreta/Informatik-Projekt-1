@@ -83,3 +83,4 @@ Wir haben heute weiter an dem Hintergrund gearbeitet. Dafür haben wir den Vulka
 ### Dienstag, 28. September 2021
 
 Wir haben heute noch mehr Meteoriten zu dem Spiel hinzugefügt. Diese fallen jetzt zu verschieschedenen Zeitpunkten und an verschiedenen Stellen herunter. Außerdem haben wir den Hintergrund weiter bearbeitet. Der Hintergrund ist noch nicht ganz fertig gestellt, darum werden wir diesen nächste Stunde noch weiter bearbeiten. Wir haben uns außerdem mit dem Ende des Spiel befasst. 
+![28  September Screen](https://user-images.githubusercontent.com/88386040/135101856-74ddb93a-5800-493e-9072-2878ab639fc3.PNG)
