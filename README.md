@@ -98,6 +98,8 @@ Wir haben heute noch mehr Meteoriten zu dem Spiel hinzugefügt. Diese fallen jet
 
 Unser Ziel diese Woche ist es einen "GAME OVER // TRY AGAIN" Screen zu erstellen, welcher auftauchen soll sobald der Dinosaurier von einem Meteoriten getroffen wird. Dazu haben wir in der ersten Stunde bereits den Screen erstellt und wollten diesen erst als neues Costume des Dinosauriers einstellen ("Game Over"), welches wenige Sekundne nach dem Costume "Dino tot" auftauchen sollte. Dies hat theoretisch auch ohne Probleme funktioniert, doch wir hatten nicht bedacht, dass der Schriftzug dann weiterhin beweglich ist. Zudem hatten wir den Block "Pause all" eingebaut, damit keine weiteren Meteoriten fallen, doch danach ließ sich das Spiel weder mit dem Klicken der grünen Fahne, noch mit einem Neustart des Programms wieder starte, weshalb wir diese rückgängig machen mussten. Dazu war es sehr hilfreich, dass wir die vorherige Version einzelnd gespeichert hatten, da wir so einfach auf diese zugreifen konnten. 
 
+Außerdem haben wir uns geeinigt die zwei Meteoriten "m 2(10)" und "m2(11)" aus dem Spiel zu entfernen, da dies ein flüssigeres laufen des Spiels und bisher weniger Probleme durch ein Einfrieren des Spiels ermöglicht hat.
+
 Der "GAME OVER // TRY AGAIN" wurde von uns in Procreate erstelt und zu einer PNG umformatiert: 
 
 ![22F2FDDB-D00A-4847-9B9E-E5E81534F747](https://user-images.githubusercontent.com/88386040/137928259-6b416c7e-aaa8-4020-914e-215965a1fc73.png)
