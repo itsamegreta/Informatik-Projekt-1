@@ -93,3 +93,11 @@ Wir haben heute weiter an dem Hintergrund gearbeitet. Dafür haben wir den Vulka
 Wir haben heute noch mehr Meteoriten zu dem Spiel hinzugefügt. Diese fallen jetzt zu verschieschedenen Zeitpunkten und an verschiedenen Stellen herunter. Außerdem haben wir den Hintergrund weiter bearbeitet. Der Hintergrund ist noch nicht ganz fertig gestellt, darum werden wir diesen nächste Stunde noch weiter bearbeiten. Wir haben uns außerdem mit dem Ende des Spiel befasst. 
 
 ![28  September Screen](https://user-images.githubusercontent.com/88386040/135101856-74ddb93a-5800-493e-9072-2878ab639fc3.PNG)
+
+### Dienstag, 19. Oktober 2021
+
+Unser Ziel diese Woche ist es einen "GAME OVER // TRY AGAIN" Screen zu erstellen, welcher auftauchen soll sobald der Dinosaurier von einem Meteoriten getroffen wird. Dazu haben wir in der ersten Stunde bereits den Screen erstellt und wollten diesen erst als neues Costume des Dinosauriers einstellen ("Game Over"), welches wenige Sekundne nach dem Costume "Dino tot" auftauchen sollte. Dies hat theoretisch auch ohne Probleme funktioniert, doch wir hatten nicht bedacht, dass der Schriftzug dann weiterhin beweglich ist. Zudem hatten wir den Block "Pause all" eingebaut, damit keine weiteren Meteoriten fallen, doch danach ließ sich das Spiel weder mit dem Klicken der grünen Fahne, noch mit einem Neustart des Programms wieder starte, weshalb wir diese rückgängig machen mussten. Dazu war es sehr hilfreich, dass wir die vorherige Version einzelnd gespeichert hatten, da wir so einfach auf diese zugreifen konnten. 
+
+Der "GAME OVER // TRY AGAIN" wurde von uns in Procreate erstelt und zu einer PNG umformatiert: 
+
+![22F2FDDB-D00A-4847-9B9E-E5E81534F747](https://user-images.githubusercontent.com/88386040/137928259-6b416c7e-aaa8-4020-914e-215965a1fc73.png)
