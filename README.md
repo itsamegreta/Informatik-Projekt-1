@@ -52,7 +52,15 @@ Wir müssen jedoch noch Hindernisse erstellen und uns überlegen, ob man beim Tr
 
 Zu Beginn der Stunde haben wir die dritte Dino-Grafik und den Meteoriten fertig gestellt. Diese haben wir begonnen ins Spiel einzufügen und haben die Koordniaten der Dino-Grafik (neu) so eingestellt, dass dieser sich auf unserer "Bodenebene" befindet. 
 
-Danach hat sich das Problem ergeben, dass der Dinosaurier trotz durchführung aller Befehle und Funktion der Pfeiltasten und Laufbewegung nicht mehr angezeigt wurde. Das Problem konnte auch durch einen Neustart nicht gelöst werden und wir werden uns in der nächsten Stunde damit beschäftigen und im Notfall auf unsere letzte gespeicherte Version vor der Stunde heute zugreifen.
+Danach hat sich das Problem ergeben, dass der Dinosaurier trotz durchführung aller Befehle und Funktion der Pfeiltasten und Laufbewegung nicht mehr angezeigt wurde. Das Problem konnte auch durch einen Neustart nicht gelöst werden und wir werden uns in der nächsten Stunde damit beschäftigen und im Notfall auf unsere letzte gespeicherte Version vor der Stunde heute zugreifen. 
+
+### Freitag, 3. September 2021
+
+Wir haben uns heute getroffen um zu versuchen, Blöcke und Ebenen zu erstellen, welche wir für das Jump and Run verwenden können. Nach ausgiebiger Beschäftigung mit der Problematik und verschiedensten Tutorials, haben wir keine Möglichkeit gefunden, dies für das vorliegende Programm umzusetzen ohne einen Absturz zu verursachen, beziehungsweise zu verhindern, dass das Spiel sich aufhängt und ein Weiterspielen unmöglich wird. Wir werden uns über das Wochenende beide weiterhin damit beschäftigen und nach geeingneten Möglichkeiten suchen. Das Problem der letzten Stunde haben wir bis jetzt nicht gelöst, da die Frage nach einer möglichen Umsetzung für uns dringender scheint, da wir uns sonst auf ein neues Spielkonzept einigen müssen.
+
+### Sonntag, 5. September 2021
+
+Heute haben wir, nachdem wir beide versucht haben unser Problem zu beheben, telefoniert und in dem Gespräch beschlossen, dass wir uns von einem Jump and Run abwenden und uns durch mehr Meteoriten und hoffentlich verschiedene Level auf das Ausweichen des Dinosauriers vor den Meteoriten konzentrieren wollen. Somit können wir die meisten bisher erstellten Kostüme, Bewegungen und Spites weiterverwenden und müssen nicht von ganz vorne beginnen.  
 
 ### Dienstag, 7. September 2021
 
@@ -78,7 +86,7 @@ Wir haben außerdem damit begonnen den Hintergrund zu gestalten. Dafür haben wi
 
 ### Mittwoch, 22. September 2021
 
-Wir haben heute weiter an dem Hintergrund gearbeitet. Dafür haben wir den Vulkan aus der letzten Stunde weiter bearbeitet und zusätzliche eine Palme erstellt, welche wir in den Hintergrund einfügen wollen. Unser Ziel ist es den Hintergund in den nächsten Stunden fertig zu stellen. 
+Wir haben heute weiter an dem Hintergrund gearbeitet. Dafür haben wir den Vulkan aus der letzten Stunde weiter bearbeitet und zusätzliche eine Palme erstellt, welche wir in den Hintergrund einfügen wollen. Unser Ziel ist es den Hintergund in den nächsten Stunden fertig zu stellen.  
 
 ### Dienstag, 28. September 2021
 
