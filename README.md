@@ -100,7 +100,7 @@ Unser Ziel diese Woche ist es einen "GAME OVER // TRY AGAIN" Screen zu erstellen
 
 Außerdem haben wir uns geeinigt die zwei Meteoriten "m 2(10)" und "m2(11)" aus dem Spiel zu entfernen, da dies ein flüssigeres laufen des Spiels und bisher weniger Probleme durch ein Einfrieren des Spiels ermöglicht hat.
 
-Der "GAME OVER // TRY AGAIN" wurde von uns in Procreate erstelt und zu einer PNG umformatiert: 
+Der "GAME OVER // TRY AGAIN" wurde von uns in Procreate erstelt und zu einer PNG umformatiert. Wir haben uns für eine simple schwarze Schrift geeinigt, da diese vor dem eigentlichen Hintergrund auftauchen soll: 
 
 ![22F2FDDB-D00A-4847-9B9E-E5E81534F747](https://user-images.githubusercontent.com/88386040/137928259-6b416c7e-aaa8-4020-914e-215965a1fc73.png)
 
