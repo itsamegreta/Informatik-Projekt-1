@@ -101,3 +101,5 @@ Unser Ziel diese Woche ist es einen "GAME OVER // TRY AGAIN" Screen zu erstellen
 Der "GAME OVER // TRY AGAIN" wurde von uns in Procreate erstelt und zu einer PNG umformatiert: 
 
 ![22F2FDDB-D00A-4847-9B9E-E5E81534F747](https://user-images.githubusercontent.com/88386040/137928259-6b416c7e-aaa8-4020-914e-215965a1fc73.png)
+
+Zudem hat sich die Klasse mit Herrn Buhl auf eine Abgabe am 6. Dezember 2021 geeinigt. 
