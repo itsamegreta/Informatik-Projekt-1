@@ -105,3 +105,7 @@ Der "GAME OVER // TRY AGAIN" wurde von uns in Procreate erstelt und zu einer PNG
 ![22F2FDDB-D00A-4847-9B9E-E5E81534F747](https://user-images.githubusercontent.com/88386040/137928259-6b416c7e-aaa8-4020-914e-215965a1fc73.png)
 
 Zudem hat sich die Klasse mit Herrn Buhl auf eine Abgabe am 6. Dezember 2021 geeinigt. 
+
+### 20. Oktober 2022
+
+In der heutigen Stunde haben wir versucht das Problem mit dem "GAME OVER // TRY AGAIN" Screen zu beheben und diesen zu erstellen. Dazu haben wir zuerst erneut versucht, das Costume des Dinosauriers zu dem Screen zu sichern und die Größe/Lage anzupassen, doch wir konnten, auch wenn wir alle Ausführungen stoppen lassen haben, nicht verhindern, dass das Costume nach wenigen Sekunden zurück zum Dinosaurier zurück gewechselt ist. Auch den Timer, der die Meteoriten zum fallen bringt konnte nicht neu gestartet werden, obwohl alle dafür verwendeten Blöcke dazu eingebaut wurden.
