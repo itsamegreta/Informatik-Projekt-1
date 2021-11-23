@@ -114,6 +114,7 @@ In der heutigen Stunde haben wir versucht das Problem mit dem "GAME OVER // TRY 
 
 ### Dienstag, 02. November 2021
 
+In der heutigen Stunde haben wir versucht unsere Probleme zu lösen?. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher haben wir in einer neuen Datei einmal die Ausführungen alle kontrolliert. ???????
 ### Mittwoch, 03. November 2021
 
 ### Mittwoch, 10. November 2021
@@ -123,6 +124,8 @@ In der heutigen Stunde
 ### Dienstag, 16. November 2021
 
 ### Mittwoch, 17. November 2021
+
+### Samstag, 20. November 2021
 
 ### Dienstag, 23. November 2021
 
