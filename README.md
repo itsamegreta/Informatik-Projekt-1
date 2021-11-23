@@ -112,7 +112,6 @@ In der heutigen Stunde haben wir versucht das Problem mit dem "GAME OVER // TRY 
 
 ### Mittwoch, 27. Oktober 2021
 
-
 ### Dienstag, 02. November 2021
 
 ### Mittwoch, 03. November 2021
