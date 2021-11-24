@@ -124,6 +124,9 @@ Die Seite Snap! konnten wir nur einmal öffnen, doch nachdem der Computer erneut
 
 In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet einfach. Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
 
+
+![Bild dino](https://user-images.githubusercontent.com/88386035/143237691-a8ceff92-c5bf-4c33-b228-da31f240534f.PNG)
+
 ### Mittwoch, 03. November 2021
 
 ### Mittwoch, 10. November 2021
