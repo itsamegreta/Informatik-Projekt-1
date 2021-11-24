@@ -122,12 +122,14 @@ Die Seite Snap! konnten wir nur einmal öffnen, doch nachdem der Computer erneut
 
 ### Dienstag, 02. November 2021
 
-In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet einfach. Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
-
+In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet plötzlich. Dies betrifft nicht nur den lebenden Dino, sondern auch den toten Dino (siehe Bild). Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren und den Fehler zu finden. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
 
 ![Bild dino](https://user-images.githubusercontent.com/88386035/143237691-a8ceff92-c5bf-4c33-b228-da31f240534f.PNG)
 
 ### Mittwoch, 03. November 2021
+
+In der heutigen Stunde haben wir überlegt das es vielleicht hilfreich wäre, wenn der Dino sich nicht bewegt sondern der Hintergund. Dabei könnte man die von uns erstellten Meteoriten auf den Dino fallen lassen und man muss mit den Dino gleichzeitig von Plattform zu Plattform hüpfen. Das heißt es wäre eine Art Jump and Run Spiel kombiniert mit unseren Meteoriten. 
+Dafür haben wir als erstes den Dino eingebaut. ...
 
 ### Mittwoch, 10. November 2021
 
@@ -137,10 +139,16 @@ In der heutigen Stunde
 
 ### Mittwoch, 17. November 2021
 
+In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf dem sich der Dino bewegen kann. Das Spiel hat am Anfang der Stunde gut funktioniert und der Dino ist auf der Plattform stehen geblieben. Es hat alles funktioniert wie es sollte, jedoch am Ende der Stunde ist der Dino nicht mehr stehen geblieben, sondern durchgefallen ist. Das einzige was wir am Spiel in der Stunde verändert hatten waren die neuen Plattformen und Säulen. Wir haben in den letzten Minuten der Stunden versucht das Problem zu beheben. Dabei sind wir noch zur keiner Lösung gekommen. Wir werden uns am Wochende treffen um an dem Spiel weiterzuarbeiten und hoffentlich das Problem zu lösen. 
+
+![Dino fällt durch](https://user-images.githubusercontent.com/88386035/143240124-5e3f51ec-b411-4cbd-b96a-02a2d7503131.PNG)
+
 ### Samstag, 20. November 2021
 
+Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle
 ### Dienstag, 23. November 2021
 
 ### Mittwoch, 24. November 2021
+
 
 
