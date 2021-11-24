@@ -116,13 +116,14 @@ Laura und ich waren gestern in unserer Informatik-Doppelstunde leider krank, wes
 
 In der heutigen Stunde konnten wir leider nicht an unserem Snap! Projekt weiterarbeiten, da der Computer die erste halbe Stunde mehrere Updates durchgeführt hat, welche man nicht unterbrechen konnte, und danach schon beim öffnen des Internet Browsers abgestürzt ist. 
 
-Die Seite Snap! konnten wir nur einmal öffnen, doch nachdem der Computer erneut abgestürzt ist, haben wi runs entschlossen, stattdessen unsere letzten Github-Einträge grammatikalisch zu überarbeiten. 
+Die Seite Snap! konnten wir nur einmal öffnen, doch nachdem der Computer erneut abgestürzt ist, haben wir uns entschlossen, stattdessen unsere letzten Github-Einträge grammatikalisch zu überarbeiten. 
  
 + Bild Computer Screen 
 
 ### Dienstag, 02. November 2021
 
-In der heutigen Stunde haben wir versucht unsere Probleme zu lösen?. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher haben wir in einer neuen Datei einmal die Ausführungen alle kontrolliert. ???????
+In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet einfach. Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
+
 ### Mittwoch, 03. November 2021
 
 ### Mittwoch, 10. November 2021
