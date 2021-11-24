@@ -112,6 +112,14 @@ In der heutigen Stunde haben wir versucht das Problem mit dem "GAME OVER // TRY 
 
 ### Mittwoch, 27. Oktober 2021
 
+Laura und ich waren gestern in unserer Informatik-Doppelstunde leider krank, weshalb wir nach einem Termin zum Nachholen der verpassten Zeit suchen. 
+
+In der heutigen Stunde konnten wir leider nicht an unserem Snap! Projekt weiterarbeiten, da der Computer die erste halbe Stunde mehrere Updates durchgeführt hat, welche man nicht unterbrechen konnte, und danach schon beim öffnen des Internet Browsers abgestürzt ist. 
+
+Die Seite Snap! konnten wir nur einmal öffnen, doch nachdem der Computer erneut abgestürzt ist, haben wi runs entschlossen, stattdessen unsere letzten Github-Einträge grammatikalisch zu überarbeiten. 
+ 
++ Bild Computer Screen 
+
 ### Dienstag, 02. November 2021
 
 In der heutigen Stunde haben wir versucht unsere Probleme zu lösen?. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher haben wir in einer neuen Datei einmal die Ausführungen alle kontrolliert. ???????
