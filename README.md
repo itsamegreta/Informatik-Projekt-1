@@ -133,9 +133,11 @@ Dafür haben wir als erstes den Dino eingebaut. ...
 
 ### Mittwoch, 10. November 2021
 
-In der heutigen Stunde
+In der heutigen Stunde evtl. ränder 
  
 ### Dienstag, 16. November 2021
+
+Problem game over evtl?
 
 ### Mittwoch, 17. November 2021
 
@@ -147,7 +149,8 @@ In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf
 
 ### Samstag, 20. November 2021
 
-Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle
+Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in eine neue Richtung zu bringen. Wir wollen unsere Spiel von Anfang mit dem anderen Spiel verknüpfen. 
+Da das mit dem bewegten Hintergund hat ja nur halbwegs geklappt, daher werden wir auf unsere alte Methode teils zurückgreifen. Die Lebensanzeige werden wir weiter übernhemen....
 ### Dienstag, 23. November 2021
 
 ### Mittwoch, 24. November 2021
