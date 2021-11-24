@@ -142,6 +142,7 @@ In der heutigen Stunde
 In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf dem sich der Dino bewegen kann (siehe Bild). Das Spiel hat am Anfang der Stunde gut funktioniert und der Dino ist auf der Plattform stehen geblieben. Es hat alles funktioniert wie es sollte, jedoch am Ende der Stunde ist der Dino nicht mehr stehen geblieben, sondern durchgefallen ist (siehe Bild). Das einzige was wir am Spiel in der Stunde verändert hatten waren die neuen Plattformen und Säulen. Wir haben in den letzten Minuten der Stunden versucht das Problem zu beheben. Dabei sind wir noch zur keiner Lösung gekommen. Wir werden uns am Wochende treffen um an dem Spiel weiterzuarbeiten und hoffentlich das Problem zu lösen. 
 
 ![Säulen ](https://user-images.githubusercontent.com/88386035/143240424-c3c2ce39-7082-45d9-8a22-b7621d8db83b.PNG)
+
 ![Dino fällt durch](https://user-images.githubusercontent.com/88386035/143240124-5e3f51ec-b411-4cbd-b96a-02a2d7503131.PNG)
 
 ### Samstag, 20. November 2021
