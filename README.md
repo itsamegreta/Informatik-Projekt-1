@@ -129,7 +129,7 @@ In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist u
 ### Mittwoch, 03. November 2021
 
 In der heutigen Stunde haben wir überlegt das es vielleicht hilfreich wäre, wenn der Dino sich nicht bewegt sondern der Hintergund. Dabei könnte man die von uns erstellten Meteoriten auf den Dino fallen lassen und man muss mit den Dino gleichzeitig von Plattform zu Plattform hüpfen. Das heißt es wäre eine Art Jump and Run Spiel kombiniert mit unseren Meteoriten. 
-Dafür haben wir als erstes den Dino eingebaut. ...
+Dafür haben wir als erstes den Dino eingebaut....
 
 ### Mittwoch, 10. November 2021
 
