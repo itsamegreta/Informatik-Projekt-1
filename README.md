@@ -150,10 +150,19 @@ In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf
 ### Samstag, 20. November 2021
 
 Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in eine neue Richtung zu bringen. Wir wollen unsere Spiel von Anfang mit dem anderen Spiel verknüpfen. 
-Da das mit dem bewegten Hintergund hat ja nur halbwegs geklappt, daher werden wir auf unsere alte Methode teils zurückgreifen. Die Lebensanzeige werden wir weiter übernhemen....
+Da das mit dem bewegten Hintergund hat ja nur halbwegs geklappt, daher werden wir auf unsere alte Methode teils zurückgreifen. Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. Außerdem haben wir den Schriftzugstart eingebaut. Sobald man Start drückt beginnt das Spiel. Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
+
 ### Dienstag, 23. November 2021
 
+Wir haben zusammen an dem Spiel weitergearbeitet. Greta war heute krank, jedoch haben wir telefoniert und so konnten wir zusammen weiterarbeiten.
+Wir haben heute das Game Over hinzugefügt. Dies taucht auf, wenn die Lebensanzeige gleich null ist und der Dino von drei Metoeriten getroffen wurde. Am Anfang wird der Schriftzug versteckt. Das Game Over führt außerdem dazu, dass der ganze Spielablauf gestoppt wird. Außerdem haben wir die Meteoriten hinzugefügt. Wir haben dieses Mal nicht wie beim letzten Mal mehrere Sprits erstellt, sondern ein Meteorit der während des Spiels sich immer wieder klont. Dabei kann er sich jedes Mal eine Position zwischen -200 und 200 aussuchen. Somit ist es jedes Mal zufällig, wo der Meteorit herunterfällt. Eine weitere Funktion die der Meteorit hat ist das, wenn er den Dino berührt ein Leben abgezogen wird. Morgen werden wir die Lebensanzeige mit einbauen. 
+
 ### Mittwoch, 24. November 2021
+
+Ich (Laura, da Greta immer noch krank war) habe heute die Lebensanzeige eingefügt. Diese verliert jedes Mal ein Herz, wenn ein Meteorit den Dino auf ihn trifft. Außerdem habe ich den toten Dino hinzugefügt. Dieser wird angezeigt, wenn der Schriftzug Game Over eingeblendet wird. Dabei war das Problem, dass der Dino nicht auf der richtigen Höhe war. Deshalb habe noch ein set y to -50 eingefügt. Jetzt liegt der tote Dino genau auf den Boden. Der Dino taucht auf sobald alle drei Leben verloren sind. 
+
+### Dienstag, 30. November 2021
+
 
 
 
