@@ -138,18 +138,21 @@ In der heutigen Stunde haben wir uns ein Jump and Run Tutorial angesehen, in dem
 
 ![Sensor Bild](https://user-images.githubusercontent.com/88386040/144072661-bc851852-c223-42e8-8a7e-3928f6e38ffa.png)
 
-Nachdem wir diese erstellt haben, haben wir uns weiter mit dem erstellen der Böden beschäftigt und die "Hauptfläche" und eine kürzere Fläche auf der Website https://make8bitart.com/ erstellt. Dabei haben wir uns auf Sandblöcke geeinigt. 
+Nachdem wir diese erstellt haben, haben wir uns weiter mit dem erstellen der Böden beschäftigt und die "Hauptfläche" und eine kürzere Fläche auf der Website https://make8bitart.com/ designed. Dabei haben wir uns auf Sandblöcke geeinigt: 
 
 ![boden toll jeah](https://user-images.githubusercontent.com/88386040/144073260-5b56e5d6-c596-4209-8f0f-37208b01d7e0.png)
 
 ### Dienstag, 16. November 2021
 
+Zu Beginn der heutigen Stunde haben wir Säulen für das Spiel erstellt:
 
-Problem game over evtl?
+![saule](https://user-images.githubusercontent.com/88386040/144073714-af06532e-44eb-46f1-b975-7e596deb720d.png)
+
+Außerdem haben wir den Boden in das Spiel eingefügt und die Größe und Lage so angepasst, dass dieser den ganzen Bildschirm füllt und der Dino darauf steht. 
 
 ### Mittwoch, 17. November 2021
 
-In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf dem sich der Dino bewegen kann (siehe Bild). Das Spiel hat am Anfang der Stunde gut funktioniert und der Dino ist auf der Plattform stehen geblieben. Es hat alles funktioniert wie es sollte, jedoch am Ende der Stunde ist der Dino nicht mehr stehen geblieben, sondern durchgefallen ist (siehe Bild). Das einzige was wir am Spiel in der Stunde verändert hatten waren die neuen Plattformen und Säulen. Wir haben in den letzten Minuten der Stunden versucht das Problem zu beheben. Dabei sind wir noch zur keiner Lösung gekommen. Wir werden uns am Wochende treffen um an dem Spiel weiterzuarbeiten und hoffentlich das Problem zu lösen. 
+In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf dem sich der Dino bewegen kann (siehe Bild). Das Spiel hat am Anfang der Stunde gut funktioniert und der Dino ist auf der Plattform stehen geblieben. Es hat alles funktioniert wie es sollte, jedoch am Ende der Stunde ist der Dino nicht mehr stehen geblieben, sondern durch die Plattformen durchgefallen (siehe Bild). Das einzige was wir am Spiel in der Stunde verändert hatten waren die neuen Plattformen und Säulen. Wir haben versucht das Problem zu beheben, doch dabei sind wir noch zu keiner Lösung gekommen. Wir werden uns am Wochende treffen um an dem Spiel weiterzuarbeiten und hoffentlich das Problem zu lösen. 
 
 ![Säulen ](https://user-images.githubusercontent.com/88386035/143240424-c3c2ce39-7082-45d9-8a22-b7621d8db83b.PNG)
 
@@ -157,13 +160,21 @@ In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf
 
 ### Samstag, 20. November 2021
 
-Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in eine neue Richtung zu bringen. Wir wollen unsere Spiel von Anfang mit dem anderen Spiel verknüpfen. 
-Da das mit dem bewegten Hintergund hat ja nur halbwegs geklappt, daher werden wir auf unsere alte Methode teils zurückgreifen. Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. Außerdem haben wir den Schriftzugstart eingebaut. Sobald man Start drückt beginnt das Spiel. Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
+Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in die alte Richtung zu bringen. Wir wollen unser Spiel von Anfang mit dem anderen Spiel verknüpfen. 
+Da das mit dem bewegten Hintergund nur halbwegs geklappt hat, werden wir auf unsere alte Methode zurückgreifen. Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. 
+Außerdem haben wir den Schriftzug "START" eingebaut. Sobald man Start anklickt, wird "Spiel Beginn" gebroadcastet und das Spiel beginnt. Dies ist der erste Versuch etwas mit den Blöcken "broadcast" und "when I receive" genutzt und werden wenn sich dies als erfolgreich erweist, weitere Funktionen damit einbauen.
+Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
 
 ### Dienstag, 23. November 2021
 
 Wir haben zusammen an dem Spiel weitergearbeitet. Greta war heute krank, jedoch haben wir telefoniert und so konnten wir zusammen weiterarbeiten.
-Wir haben heute das Game Over hinzugefügt. Dies taucht auf, wenn die Lebensanzeige gleich null ist und der Dino von drei Metoeriten getroffen wurde. Am Anfang wird der Schriftzug versteckt. Das Game Over führt außerdem dazu, dass der ganze Spielablauf gestoppt wird. Außerdem haben wir die Meteoriten hinzugefügt. Wir haben dieses Mal nicht wie beim letzten Mal mehrere Sprits erstellt, sondern ein Meteorit der während des Spiels sich immer wieder klont. Dabei kann er sich jedes Mal eine Position zwischen -200 und 200 aussuchen. Somit ist es jedes Mal zufällig, wo der Meteorit herunterfällt. Eine weitere Funktion die der Meteorit hat ist das, wenn er den Dino berührt ein Leben abgezogen wird. Morgen werden wir die Lebensanzeige mit einbauen. 
+Wir haben heute das Game Over hinzugefügt. Diese soll auftauchen, sobald die Lebensanzeige gleich null ist, da "Game Over" gebroadcastet werden soll, also wenn der Dino von drei Metoeriten getroffen wurde. Am Anfang soll der Schriftzug versteckt werden und soll dazu führen, dass der ganze Spielablauf gestoppt wird. 
+Außerdem haben wir die Meteoriten hinzugefügt. Wir haben dieses Mal nicht wie beim letzten Mal mehrere Sprites erstellt, sondern einen Meteoriten, der während des Spiels immer wieder geklont wird, da wir somit das Problem des ersten Spieles, also, dass sich das Spiel durch zu viele Sprites und ablaufende Funktionen aufhängt.
+Dabei kann er sich jedes Mal eine Position zwischen -200 und 200 aussuchen. Somit ist es jedes Mal zufällig, wobei der Meteorit herunterfällt.
+Eine weitere Funktion die die Meteoriten haben, ist dass sie dem Dino ab heute Leben abziehen können, wenn sie ihn treffen. Somit stirbt der Dino nicht direkt, sondern man hat drei Chancen. Dafür haben wir eine Variable "Leben" erstellt und diese zu drei gesetzt. Für diese haben wir zuerst vier Costumes designed, nämlich jeweils für drei bis null Herzen. 
+![herzen drei](https://user-images.githubusercontent.com/88386040/144076484-50237ed6-70b0-4a6a-91d9-e54986e25343.png)
+![herz zwei](https://user-images.githubusercontent.com/88386040/144076527-9321c67d-a6cb-4d44-b15b-82674c83bc9d.png)
+![herz eins](https://user-images.githubusercontent.com/88386040/144076509-fe7d6f14-d3fb-4576-ab3a-351f8486d51d.png)
 
 ### Mittwoch, 24. November 2021
 
@@ -172,7 +183,7 @@ Ich (Laura, da Greta immer noch krank war) habe heute die Lebensanzeige eingefü
 ### Dienstag, 30. November 2021
 
 Heute haben wir den Hintergrund für das Spiel erstellt. 
-Wir haben außerdem einen Timer erstellt. Dadurch wird die Spielzeit begrenzt. Danach haben wir den Schriftzug Congratulations mit eingebaut. Dieser Schriftzug wird eingeblendet sobald der Timer abgelaufen ist und noch nicht alle Leben verloren sind. Außerdem haben wir die Funktion hinzugefügt das, wenn man auf die aschriftzüge Game Over oder Congratulations drückt das Spiel wieder neu startet. Wir hatten schon seit längeren das Problem, dass die Meteoriten plötzlich am Boden hängengeblieben sind. Wir haben dies gelöst indem wir folgenden Block eingefügt haben:
+Wir haben außerdem einen Timer erstellt. Dadurch wird die Spielzeit begrenzt. Danach haben wir den Schriftzug Congratulations mit eingebaut. Dieser Schriftzug wird eingeblendet sobald der Timer abgelaufen ist und noch nicht alle Leben verloren sind. Außerdem haben wir die Funktion hinzugefügt das, wenn man alsuf die aschriftzüge Game Over oder Congratulations drückt das Spiel wieder neu startet. Wir hatten schon seit längeren das Problem, dass die Meteoriten plötzlich am Boden hängengeblieben sind. Wir haben dies gelöst indem wir folgenden Block eingefügt haben:
 
 ![Bild für Blog](https://user-images.githubusercontent.com/88386040/144070244-4542b483-b939-4003-a2bc-0e8fdb4ed25a.png)
 
