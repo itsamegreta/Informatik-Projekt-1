@@ -129,7 +129,7 @@ In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist u
 ### Mittwoch, 03. November 2021
 
 In der heutigen Stunde haben wir überlegt das es vielleicht hilfreich wäre, wenn der Dino sich nicht bewegt sondern der Hintergund. Dabei könnte man die von uns erstellten Meteoriten auf den Dino fallen lassen und man muss mit den Dino gleichzeitig von Plattform zu Plattform hüpfen. Das heißt es wäre eine Art Jump and Run Spiel kombiniert mit unseren Meteoriten. 
-Dafür haben wir als erstes den Dino eingebaut....
+Dafür haben wir als erstes den Dino eingebaut. 
 
 ### Mittwoch, 10. November 2021
 
@@ -163,6 +163,8 @@ Ich (Laura, da Greta immer noch krank war) habe heute die Lebensanzeige eingefü
 
 ### Dienstag, 30. November 2021
 
+Heute haben wir den Hintergrund für das Spiel erstellt. 
+Wir haben außerdem einen Timer erstellt. Dadurch wird die Spielzeit begrenzt. Danach haben wir den Schriftzug Congratulations mit eingebaut. Dieser Schriftzug wird eingeblendet sobald der Timer abgelaufen ist und noch nicht alle Leben verloren sind. Außerdem haben wir die Funktion hinzugefügt das, wenn man auf die aschriftzüge Game Over oder Congratulations drückt das Spiel wieder neu startet. Wir hatten schon seit längeren das Problem, dass die Meteoriten plötzlich am Boden hängengeblieben sind. Wir haben dies gelöst indem wir folgenden Block eingefügt haben:
 
 
 
