@@ -135,7 +135,12 @@ Dafür haben wir als erstes den Dino eingebaut und verschiedene Techniken auspro
 
 In der heutigen Stunde haben wir uns ein Jump and Run Tutorial angesehen, in dem verschiedenen Ränder erstellt wurden, welche den Bildschirm abgrenzen. Es wurde erlklärt, dass dies esseziell sei, weshalb wir einen Sensor für jede Bildschirmseite erstellt haben.
 ![sensor2](https://user-images.githubusercontent.com/88386040/144072536-07f709c8-e9d5-4283-b007-4d19c78a7eed.png)
+
 ![Sensor Bild](https://user-images.githubusercontent.com/88386040/144072661-bc851852-c223-42e8-8a7e-3928f6e38ffa.png)
+
+Nachdem wir diese erstellt haben, haben wir uns weiter mit dem erstellen der Böden beschäftigt und die "Hauptfläche" und eine kürzere Fläche auf der Website https://make8bitart.com/ erstellt. Dabei haben wir uns auf Sandblöcke geeinigt. 
+
+![boden toll jeah](https://user-images.githubusercontent.com/88386040/144073260-5b56e5d6-c596-4209-8f0f-37208b01d7e0.png)
 
 ### Dienstag, 16. November 2021
 
