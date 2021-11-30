@@ -150,7 +150,7 @@ In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf
 ### Samstag, 20. November 2021
 
 Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in eine neue Richtung zu bringen. Wir wollen unsere Spiel von Anfang mit dem anderen Spiel verknüpfen. 
-Da das mit dem bewegten Hintergund hat ja nur halbwegs geklappt, daher werden wir auf unsere alte Methode teils zurückgreifen. Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. Außerdem haben wir den Schriftzugstart eingebaut. Sobald man Start drückt beginnt das Spiel. Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
+Da das mit dem bewegten Hintergund hat ja nur halbwegs geklappt, daher werden wir auf unsere alte Methode teils zurückgreifen. Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. Außerdem haben wir den Schriftzugstart eingebaut. Sobald man Start drückt beginnt das Spiel. Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. Dabei haben wir die Koordninaten (-190/ -61) auf. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
 
 ### Dienstag, 23. November 2021
 
