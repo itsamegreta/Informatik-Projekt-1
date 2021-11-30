@@ -156,7 +156,7 @@ In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf
 
 ![Säulen ](https://user-images.githubusercontent.com/88386035/143240424-c3c2ce39-7082-45d9-8a22-b7621d8db83b.PNG)
 
-![Dino fällt durch](https://user-images.githubusercontent.com/88386035/143240124-5e3f51ec-b411-4cbd-b96a-02a2d7503131.PNG)
+![fallen oder so](https://user-images.githubusercontent.com/88386040/144077018-1625a8e0-8869-4199-bde9-eae5afb06557.png)
 
 ### Samstag, 20. November 2021
 
@@ -173,7 +173,9 @@ Außerdem haben wir die Meteoriten hinzugefügt. Wir haben dieses Mal nicht wie 
 Dabei kann er sich jedes Mal eine Position zwischen -200 und 200 aussuchen. Somit ist es jedes Mal zufällig, wobei der Meteorit herunterfällt.
 Eine weitere Funktion die die Meteoriten haben, ist dass sie dem Dino ab heute Leben abziehen können, wenn sie ihn treffen. Somit stirbt der Dino nicht direkt, sondern man hat drei Chancen. Dafür haben wir eine Variable "Leben" erstellt und diese zu drei gesetzt. Für diese haben wir zuerst vier Costumes designed, nämlich jeweils für drei bis null Herzen. 
 ![herzen drei](https://user-images.githubusercontent.com/88386040/144076484-50237ed6-70b0-4a6a-91d9-e54986e25343.png)
+
 ![herz zwei](https://user-images.githubusercontent.com/88386040/144076527-9321c67d-a6cb-4d44-b15b-82674c83bc9d.png)
+
 ![herz eins](https://user-images.githubusercontent.com/88386040/144076509-fe7d6f14-d3fb-4576-ab3a-351f8486d51d.png)
 
 ### Mittwoch, 24. November 2021
