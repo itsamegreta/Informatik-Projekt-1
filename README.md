@@ -96,7 +96,7 @@ Wir haben heute noch mehr Meteoriten zu dem Spiel hinzugefügt. Diese fallen jet
 
 ### Dienstag, 19. Oktober 2021
 
-Unser Ziel diese Woche ist es einen "GAME OVER // TRY AGAIN" Screen zu erstellen, welcher auftauchen soll sobald der Dinosaurier von einem Meteoriten getroffen wird. Dazu haben wir in der ersten Stunde bereits den Screen erstellt und wollten diesen erst als neues Costume des Dinosauriers einstellen ("Game Over"), welches wenige Sekundne nach dem Costume "Dino tot" auftauchen sollte. Dies hat theoretisch auch ohne Probleme funktioniert, doch wir hatten nicht bedacht, dass der Schriftzug dann weiterhin beweglich ist. Zudem hatten wir den Block "Pause all" eingebaut, damit keine weiteren Meteoriten fallen, doch danach ließ sich das Spiel weder mit dem Klicken der grünen Fahne, noch mit einem Neustart des Programms wieder starte, weshalb wir diese rückgängig machen mussten. Dazu war es sehr hilfreich, dass wir die vorherige Version einzelnd gespeichert hatten, da wir so einfach auf diese zugreifen konnten. 
+Unser Ziel diese Woche ist es einen "GAME OVER // TRY AGAIN" Screen zu erstellen, welcher auftauchen soll sobald der Dinosaurier von einem Meteoriten getroffen wird. Dazu haben wir in der ersten Stunde bereits den Screen erstellt und wollten diesen erst als neues Costume des Dinosauriers einstellen ("Game Over"), welches wenige Sekunden nach dem Costume "Dino tot" auftauchen soll. Dies hat theoretisch auch ohne Probleme funktioniert, doch wir hatten nicht bedacht, dass der Schriftzug dann weiterhin beweglich ist. Zudem hatten wir den Block "Pause all" eingebaut, damit keine weiteren Meteoriten fallen, doch danach ließ sich das Spiel weder mit dem Klicken der grünen Fahne, noch mit einem Neustart des Programms wieder starten, weshalb wir diese rückgängig machen mussten. Dazu war es sehr hilfreich, dass wir die vorherige Version einzelnd gespeichert hatten, da wir so einfach auf diese zugreifen konnten. 
 
 Außerdem haben wir uns geeinigt die zwei Meteoriten "m 2(10)" und "m2(11)" aus dem Spiel zu entfernen, da dies ein flüssigeres laufen des Spiels und bisher weniger Probleme durch ein Einfrieren des Spiels ermöglicht hat.
 
@@ -122,20 +122,23 @@ Die Seite Snap! konnten wir nur einmal öffnen, doch nachdem der Computer erneut
 
 ### Dienstag, 02. November 2021
 
-In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet plötzlich. Dies betrifft nicht nur den lebenden Dino, sondern auch den toten Dino (siehe Bild). Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren und den Fehler zu finden. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
+In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande und teilweise war garkein Spiel möglich, da der Dino und die Meteoriten in der Luft hängen geblieben sind und nicht zurück gesetzt werden konnten. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet plötzlich. Dies betrifft nicht nur den lebenden Dino, sondern auch den toten Dino zu (siehe Bild). Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren und den Fehler zu finden. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
 
 ![Bild dino](https://user-images.githubusercontent.com/88386035/143237691-a8ceff92-c5bf-4c33-b228-da31f240534f.PNG)
 
 ### Mittwoch, 03. November 2021
 
 In der heutigen Stunde haben wir überlegt das es vielleicht hilfreich wäre, wenn der Dino sich nicht bewegt sondern der Hintergund. Dabei könnte man die von uns erstellten Meteoriten auf den Dino fallen lassen und man muss mit den Dino gleichzeitig von Plattform zu Plattform hüpfen. Das heißt es wäre eine Art Jump and Run Spiel kombiniert mit unseren Meteoriten. 
-Dafür haben wir als erstes den Dino eingebaut. 
+Dafür haben wir als erstes den Dino eingebaut und verschiedene Techniken ausprobiert. Der Plan ist es verschiedene Blöcke einzubauen, die an bestimmte Koordinaten gesetzt werden, damit ein dauerhafter Boden mit eventuellen Hindernissen entsteht. 
 
 ### Mittwoch, 10. November 2021
 
-In der heutigen Stunde evtl. ränder 
- 
+In der heutigen Stunde haben wir uns ein Jump and Run Tutorial angesehen, in dem verschiedenen Ränder erstellt wurden, welche den Bildschirm abgrenzen. Es wurde erlklärt, dass dies esseziell sei, weshalb wir einen Sensor für jede Bildschirmseite erstellt haben.
+![sensor2](https://user-images.githubusercontent.com/88386040/144072536-07f709c8-e9d5-4283-b007-4d19c78a7eed.png)
+![Sensor Bild](https://user-images.githubusercontent.com/88386040/144072661-bc851852-c223-42e8-8a7e-3928f6e38ffa.png)
+
 ### Dienstag, 16. November 2021
+
 
 Problem game over evtl?
 
@@ -150,7 +153,7 @@ In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf
 ### Samstag, 20. November 2021
 
 Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in eine neue Richtung zu bringen. Wir wollen unsere Spiel von Anfang mit dem anderen Spiel verknüpfen. 
-Da das mit dem bewegten Hintergund hat ja nur halbwegs geklappt, daher werden wir auf unsere alte Methode teils zurückgreifen. Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. Außerdem haben wir den Schriftzugstart eingebaut. Sobald man Start drückt beginnt das Spiel. Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. Dabei haben wir die Koordninaten (-190/ -61) auf. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
+Da das mit dem bewegten Hintergund hat ja nur halbwegs geklappt, daher werden wir auf unsere alte Methode teils zurückgreifen. Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. Außerdem haben wir den Schriftzugstart eingebaut. Sobald man Start drückt beginnt das Spiel. Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
 
 ### Dienstag, 23. November 2021
 
