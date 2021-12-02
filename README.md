@@ -37,6 +37,11 @@
 
 [17.  Mittwoch, 20. Oktober 2021](#17)
 
+[18.  Mittwoch, 27. Oktober 2021](#18)
+
+[19.  Dienstag, 02. November 2021](#19)
+
+
 
 
 
