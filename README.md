@@ -41,6 +41,30 @@
 
 [19.  Dienstag, 02. November 2021](#19)
 
+[20.  Dienstag, 03. November 2021](#20)
+
+[21.  Mittwoch, 10. November 2021](#21)
+
+[22.  Dienstag, 02. November 2021](#22)
+
+[23.  Mittwoch, 03. November 2021](#23)
+
+[24.  Mittwoch, 10. November 2021](#24)
+
+[25.  Dienstag, 16. November 2021](#25)
+
+[26.  Mittwoch, 17. November 2021](#26)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
