@@ -45,36 +45,15 @@
 
 [21.  Mittwoch, 10. November 2021](#21)
 
-[22.  Dienstag, 02. November 2021](#22)
+[22.  Dienstag, 16. November 2021](#22)
 
-[23.  Mittwoch, 03. November 2021](#23)
+[23.  Samstag,  20. November 2021](#23)
 
-[24.  Mittwoch, 10. November 2021](#24)
+[24.  Dienstag, 23. November 2021](#24)
 
-[25.  Dienstag, 16. November 2021](#25)
+[25.  Mittwoch, 24. November 2021](#25)
 
-[26.  Mittwoch, 17. November 2021](#26)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[26.  Dienstag, 30. November 2021](#26)
 
 
 ## *Stundenblog*
