@@ -3,17 +3,32 @@
 
 ## *Inhaltsverzeichnis*
 
-[1.   Dienstag, 03. August 2018](#1)
+[1.   Dienstag, 03. August 2021](#1)
 
-[2.   Mittwoch, 04. August 2018](#2)
+[2.   Mittwoch, 04. August 2021](#2)
 
-[3.   Mittwoch, 04. August 2018](#3)
+[3.   Mittwoch, 04. August 2021](#3)
 
-[4.   Dienstag, 10. August 2018](#4)
+[4.   Dienstag, 10. August 2021](#4)
 
-[5.   Dienstag, 24. August 2018](#5)
+[5.   Dienstag, 24. August 2021](#5)
 
-[6.   Mittwoch, 25. August 2018](#6)
+[6.   Mittwoch, 25. August 2021](#6)
+
+[7.   Dienstag, 31. August 2021](#7)
+
+[8.   Mittwoch, 01. September 2021](#8)
+
+[9.   Freitag, 03. September 2021](#9)
+
+[10.  Sonntag, 05.September 2021](#10)
+
+[11.  Dienstag, 7. September 2021](#11)
+
+[12.  Mittwoch, 28. September 2021](#12)
+
+
+
 
 
 
@@ -60,37 +75,37 @@ Zu Beginn der Stunde haben wir unsere Dinosaurier-Grafik gespiegelt und so geän
 
 Zudem haben wir programmiert, dass der Dinosaurier, sobald er den Rand berührt, auf die Koordinate (-170/-110), also relativ weit in die untere, linke Ecke gesetzt wird um die Wirkung eines fortlaufenden Hintergrundes zu erzeugen. Wir haben außerdem die Bewegungsgeschwindigkeit des Dinos herabgesetzt und werden uns in der nächsten Stunde mit dem realistischen Springen beschäftigen. 
 
-### Dienstag, 31. August 2021
+## <a name="7"></a> Dienstag, 31. August 2021
 
 Heute haben wir uns zu Beginn der Stunde mit dem realistischen Springen der Figur beschäftigt. Dies hat semi gut geklappt. Außerdem haben wir begonnen "Meteoriten" als neue Spites zu erstellen, welche an verschiedenen Stellen und Zeitpunkten auf den Dinosaurier fallen. Wenn man es mit dem Dinosaurier nicht schafft auszuweichen und von einem Meteoriten getroffen wird, stirbt der Dino, bzw. das Costume wird geändert, und wird nach einigen Sekunden wieder in seinem alten, lebenden Costume gezeigt, woraufhin der Spieler weiter spielen kann. Wir haben zudem begonnen die Meteoriten und die weitere Dino-Grafik zu erstellen.
 
 Wir müssen jedoch noch Hindernisse erstellen und uns überlegen, ob man beim Treffen eines Meteors oder Hindernissen ein Leben verliert, nichts passiert oder von vorne begonnen werden muss. Wenn wir diese Frage geklärt haben können wir auch daran weiterarbeiten.
 
-### Mittwoch, 1. September 2021
+## <a name="8"></a> Mittwoch, 1. September 2021
 
 Zu Beginn der Stunde haben wir die dritte Dino-Grafik und den Meteoriten fertig gestellt. Diese haben wir begonnen ins Spiel einzufügen und haben die Koordniaten der Dino-Grafik (neu) so eingestellt, dass dieser sich auf unserer "Bodenebene" befindet. 
 
 Danach hat sich das Problem ergeben, dass der Dinosaurier trotz durchführung aller Befehle und Funktion der Pfeiltasten und Laufbewegung nicht mehr angezeigt wurde. Das Problem konnte auch durch einen Neustart nicht gelöst werden und wir werden uns in der nächsten Stunde damit beschäftigen und im Notfall auf unsere letzte gespeicherte Version vor der Stunde heute zugreifen. 
 
-### Freitag, 3. September 2021
+## <a name="9"></a> Freitag, 3. September 2021
 
 Wir haben uns heute getroffen um zu versuchen, Blöcke und Ebenen zu erstellen, welche wir für das Jump and Run verwenden können. Nach ausgiebiger Beschäftigung mit der Problematik und verschiedensten Tutorials, haben wir keine Möglichkeit gefunden, dies für das vorliegende Programm umzusetzen ohne einen Absturz zu verursachen, beziehungsweise zu verhindern, dass das Spiel sich aufhängt und ein Weiterspielen unmöglich wird. Wir werden uns über das Wochenende beide weiterhin damit beschäftigen und nach geeingneten Möglichkeiten suchen. Das Problem der letzten Stunde haben wir bis jetzt nicht gelöst, da die Frage nach einer möglichen Umsetzung für uns dringender scheint, da wir uns sonst auf ein neues Spielkonzept einigen müssen.
 
-### Sonntag, 5. September 2021
+## <a name="10"></a> Sonntag, 5. September 2021
 
 Heute haben wir, nachdem wir beide versucht haben unser Problem zu beheben, telefoniert und in dem Gespräch beschlossen, dass wir uns von einem Jump and Run abwenden und uns durch mehr Meteoriten und hoffentlich verschiedene Level auf das Ausweichen des Dinosauriers vor den Meteoriten konzentrieren wollen. Somit können wir die meisten bisher erstellten Kostüme, Bewegungen und Spites weiterverwenden und müssen nicht von ganz vorne beginnen.  
 
-### Dienstag, 7. September 2021
+## <a name="11"></a> Dienstag, 7. September 2021
 
 Das Problem von der letzten Stunde konnte nicht gelöst werden. Deshalb habe ich (Laura) auf die zuletzt gespeicherte Version, wo alles noch funktioniert hat, zugegriffen. Ich habe die Meteoriten Grafik erneut eingefügt. Dabei hat sich nur das Problem ergeben, dass bisher der Meteorit von oben senkrecht runter fällt. Dies ist jedoch nicht wirklich realistisch. Daher habe ich versucht einen Weg zu finden, dass der Meteorit leicht schräg ins Bild fliegt. 
 
 Der Meteorit fliegt jetzt leicht schräg ins Bild. Ich habe das Problem gelöst, indem ich ein "point in direction 210" eingefügt habe. Der Meteorit liegt jedoch immer noch nicht richtig. Um das Problem zu lösen habe ich noch mehrere Meteoriten angefertig die verschieden gedreht sind. Dabei war jedoch immer noch nicht der perfekte dabei. Um das Problem werden wir uns nächste Stunde kümmern. Außerdem müssen wir die dritte Dino-Grafik noch etwas runter setzen, damit das ganze realistischer aussieht. 
 
-### Mittwoch, 8. September 2021
+## <a name="12"></a> Mittwoch, 8. September 2021
 
 Heute habe ich (Laura, weil Greta immer noch krank ist) die dritte Dino-Grafik noch einmal bearbeitet, in der Hoffnung, dass der Dinosaurier runtergesetzt ist. Jedoch konnte ich die Grafik noch nicht einfügen, da Snap! nach mehreren Versuchen auf dem Computer nicht geöffnet wurde. Insgesamt gab es Schwierigkeiten mit den Computern und der Serververbindung. Deshalb habe ich insgesamt nur die Dino-Grafik bearbeitet, weil diese von den Problemen unabhängig war. 
 
-### Dienstag, 21. September 2021
+## <a name="13"></a> Dienstag, 21. September 2021
 
 Heute haben wir uns weiter mit der Meteoriten-Grafik und der Grafik des toten Dinos beschäftigt. Nachdem wir die Grafik des Dinos in Positionierung und Größe überarbeitet haben, haben wir sie wieder in das Spiel eingefügt und die Position etc. bearbeitet, bis wir zu dem gewünschten Ergebnis gekommen sind. 
 
@@ -102,17 +117,17 @@ Wir haben außerdem damit begonnen den Hintergrund zu gestalten. Dafür haben wi
 
 ![Informatik 21 9](https://user-images.githubusercontent.com/88386040/134183781-8537e62c-79c9-431d-a6c2-cfdcbcdc3099.PNG)
 
-### Mittwoch, 22. September 2021
+## <a name="14"></a> Mittwoch, 22. September 2021
 
 Wir haben heute weiter an dem Hintergrund gearbeitet. Dafür haben wir den Vulkan aus der letzten Stunde weiter bearbeitet und zusätzliche eine Palme erstellt, welche wir in den Hintergrund einfügen wollen. Unser Ziel ist es den Hintergund in den nächsten Stunden fertig zu stellen.  
 
-### Dienstag, 28. September 2021
+## <a name="15"></a> Dienstag, 28. September 2021
 
 Wir haben heute noch mehr Meteoriten zu dem Spiel hinzugefügt. Diese fallen jetzt zu verschieschedenen Zeitpunkten und an verschiedenen Stellen herunter. Außerdem haben wir den Hintergrund weiter bearbeitet. Der Hintergrund ist noch nicht ganz fertig gestellt, darum werden wir diesen nächste Stunde noch weiter bearbeiten. Wir haben uns außerdem mit dem Ende des Spiel befasst. 
 
 ![28  September Screen](https://user-images.githubusercontent.com/88386040/135101856-74ddb93a-5800-493e-9072-2878ab639fc3.PNG)
 
-### Dienstag, 19. Oktober 2021
+## <a name="16"></a> Dienstag, 19. Oktober 2021
 
 Unser Ziel diese Woche ist es einen "GAME OVER // TRY AGAIN" Screen zu erstellen, welcher auftauchen soll sobald der Dinosaurier von einem Meteoriten getroffen wird. Dazu haben wir in der ersten Stunde bereits den Screen erstellt und wollten diesen erst als neues Costume des Dinosauriers einstellen ("Game Over"), welches wenige Sekunden nach dem Costume "Dino tot" auftauchen soll. Dies hat theoretisch auch ohne Probleme funktioniert, doch wir hatten nicht bedacht, dass der Schriftzug dann weiterhin beweglich ist. Zudem hatten wir den Block "Pause all" eingebaut, damit keine weiteren Meteoriten fallen, doch danach ließ sich das Spiel weder mit dem Klicken der grünen Fahne, noch mit einem Neustart des Programms wieder starten, weshalb wir diese rückgängig machen mussten. Dazu war es sehr hilfreich, dass wir die vorherige Version einzelnd gespeichert hatten, da wir so einfach auf diese zugreifen konnten. 
 
@@ -124,11 +139,11 @@ Der "GAME OVER // TRY AGAIN" wurde von uns in Procreate erstelt und zu einer PNG
 
 Zudem hat sich die Klasse mit Herrn Buhl auf eine Abgabe am 6. Dezember 2021 geeinigt. 
 
-### Mittwoch, 20. Oktober 2022
+## <a name="17"></a> Mittwoch, 20. Oktober 2022
 
 In der heutigen Stunde haben wir versucht das Problem mit dem "GAME OVER // TRY AGAIN" Screen zu beheben und diesen zu erstellen. Dazu haben wir zuerst erneut versucht, das Costume des Dinosauriers zu dem Screen zu sichern und die Größe/Lage anzupassen, doch wir konnten, auch wenn wir alle Ausführungen stoppen lassen haben, nicht verhindern, dass das Costume nach wenigen Sekunden zurück zum Dinosaurier zurück gewechselt ist. Auch den Timer, der die Meteoriten zum fallen bringt konnte nicht neu gestartet werden, obwohl alle dafür verwendeten Blöcke dazu eingebaut wurden.
 
-### Mittwoch, 27. Oktober 2021
+## <a name="18"></a> Mittwoch, 27. Oktober 2021
 
 Laura und ich waren gestern in unserer Informatik-Doppelstunde leider krank, weshalb wir nach einem Termin zum Nachholen der verpassten Zeit suchen. 
 
@@ -138,18 +153,18 @@ Die Seite Snap! konnten wir nur einmal öffnen, doch nachdem der Computer erneut
  
 + Bild Computer Screen 
 
-### Dienstag, 02. November 2021
+## <a name="19"></a> Dienstag, 02. November 2021
 
 In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande und teilweise war garkein Spiel möglich, da der Dino und die Meteoriten in der Luft hängen geblieben sind und nicht zurück gesetzt werden konnten. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet plötzlich. Dies betrifft nicht nur den lebenden Dino, sondern auch den toten Dino zu (siehe Bild). Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren und den Fehler zu finden. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
 
 ![Bild dino](https://user-images.githubusercontent.com/88386035/143237691-a8ceff92-c5bf-4c33-b228-da31f240534f.PNG)
 
-### Mittwoch, 03. November 2021
+## <a name="20"></a> Mittwoch, 03. November 2021
 
 In der heutigen Stunde haben wir überlegt das es vielleicht hilfreich wäre, wenn der Dino sich nicht bewegt sondern der Hintergund. Dabei könnte man die von uns erstellten Meteoriten auf den Dino fallen lassen und man muss mit den Dino gleichzeitig von Plattform zu Plattform hüpfen. Das heißt es wäre eine Art Jump and Run Spiel kombiniert mit unseren Meteoriten. 
 Dafür haben wir als erstes den Dino eingebaut und verschiedene Techniken ausprobiert. Der Plan ist es verschiedene Blöcke einzubauen, die an bestimmte Koordinaten gesetzt werden, damit ein dauerhafter Boden mit eventuellen Hindernissen entsteht. 
 
-### Mittwoch, 10. November 2021
+## <a name="21"></a> Mittwoch, 10. November 2021
 
 In der heutigen Stunde haben wir uns ein Jump and Run Tutorial angesehen, in dem verschiedenen Ränder erstellt wurden, welche den Bildschirm abgrenzen. Es wurde erlklärt, dass dies esseziell sei, weshalb wir einen Sensor für jede Bildschirmseite erstellt haben.
 ![sensor2](https://user-images.githubusercontent.com/88386040/144072536-07f709c8-e9d5-4283-b007-4d19c78a7eed.png)
@@ -160,7 +175,7 @@ Nachdem wir diese erstellt haben, haben wir uns weiter mit dem erstellen der Bö
 
 ![boden toll jeah](https://user-images.githubusercontent.com/88386040/144073260-5b56e5d6-c596-4209-8f0f-37208b01d7e0.png)
 
-### Dienstag, 16. November 2021
+## <a name="22"></a> Dienstag, 16. November 2021
 
 Zu Beginn der heutigen Stunde haben wir Säulen für das Spiel erstellt:
 
@@ -168,7 +183,7 @@ Zu Beginn der heutigen Stunde haben wir Säulen für das Spiel erstellt:
 
 Außerdem haben wir den Boden in das Spiel eingefügt und die Größe und Lage so angepasst, dass dieser den ganzen Bildschirm füllt und der Dino darauf steht. 
 
-### Mittwoch, 17. November 2021
+## <a name="23"></a> Mittwoch, 17. November 2021
 
 In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf dem sich der Dino bewegen kann (siehe Bild). Das Spiel hat am Anfang der Stunde gut funktioniert und der Dino ist auf der Plattform stehen geblieben. Es hat alles funktioniert wie es sollte, jedoch am Ende der Stunde ist der Dino nicht mehr stehen geblieben, sondern durch die Plattformen durchgefallen (siehe Bild). Das einzige was wir am Spiel in der Stunde verändert hatten waren die neuen Plattformen und Säulen. Wir haben versucht das Problem zu beheben, doch dabei sind wir noch zu keiner Lösung gekommen. Wir werden uns am Wochende treffen um an dem Spiel weiterzuarbeiten und hoffentlich das Problem zu lösen. 
 
@@ -176,14 +191,14 @@ In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf
 
 ![fallen oder so](https://user-images.githubusercontent.com/88386040/144077018-1625a8e0-8869-4199-bde9-eae5afb06557.png)
 
-### Samstag, 20. November 2021
+## <a name="24"></a> Samstag, 20. November 2021
 
 Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in die alte Richtung zu bringen. Wir wollen unser Spiel von Anfang mit dem anderen Spiel verknüpfen. 
 Da das mit dem bewegten Hintergund nur halbwegs geklappt hat, werden wir auf unsere alte Methode zurückgreifen. Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. 
 Außerdem haben wir den Schriftzug "START" eingebaut. Sobald man Start anklickt, wird "Spiel Beginn" gebroadcastet und das Spiel beginnt. Dies ist der erste Versuch etwas mit den Blöcken "broadcast" und "when I receive" genutzt und werden wenn sich dies als erfolgreich erweist, weitere Funktionen damit einbauen.
 Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
 
-### Dienstag, 23. November 2021
+## <a name="25"></a> Dienstag, 23. November 2021
 
 Wir haben zusammen an dem Spiel weitergearbeitet. Greta war heute krank, jedoch haben wir telefoniert und so konnten wir zusammen weiterarbeiten.
 Wir haben heute das Game Over hinzugefügt. Diese soll auftauchen, sobald die Lebensanzeige gleich null ist, da "Game Over" gebroadcastet werden soll, also wenn der Dino von drei Metoeriten getroffen wurde. Am Anfang soll der Schriftzug versteckt werden und soll dazu führen, dass der ganze Spielablauf gestoppt wird. 
@@ -197,11 +212,11 @@ Eine weitere Funktion die die Meteoriten haben, ist dass sie dem Dino ab heute L
 
 ![herz eins](https://user-images.githubusercontent.com/88386040/144076509-fe7d6f14-d3fb-4576-ab3a-351f8486d51d.png)
 
-### Mittwoch, 24. November 2021
+## <a name="26"></a> Mittwoch, 24. November 2021
 
 Ich (Laura, da Greta immer noch krank war) habe heute die Lebensanzeige eingefügt. Diese verliert jedes Mal ein Herz, wenn ein Meteorit den Dino auf ihn trifft. Außerdem habe ich den toten Dino hinzugefügt. Dieser wird angezeigt, wenn der Schriftzug Game Over eingeblendet wird. Dabei war das Problem, dass der Dino nicht auf der richtigen Höhe war. Deshalb habe noch ein set y to -50 eingefügt. Jetzt liegt der tote Dino genau auf den Boden. Der Dino taucht auf sobald alle drei Leben verloren sind. 
 
-### Dienstag, 30. November 2021
+## <a name="27"></a> Dienstag, 30. November 2021
 
 Heute haben wir den Hintergrund für das Spiel erstellt. 
 Wir haben außerdem einen Timer erstellt. Dadurch wird die Spielzeit begrenzt. Danach haben wir den Schriftzug Congratulations mit eingebaut. Dieser Schriftzug wird eingeblendet sobald der Timer abgelaufen ist und noch nicht alle Leben verloren sind. Außerdem haben wir die Funktion hinzugefügt das, wenn man alsuf die aschriftzüge Game Over oder Congratulations drückt das Spiel wieder neu startet. Wir hatten schon seit längeren das Problem, dass die Meteoriten plötzlich am Boden hängengeblieben sind. Wir haben dies gelöst indem wir folgenden Block eingefügt haben:
