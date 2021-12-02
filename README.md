@@ -1,7 +1,14 @@
 
 # Projektblog Projekt 1
 
-## Dienstag, 03. August 2021
+## *Inhaltsverzeichnis*
+
+[1. Dienstag, 03. August 2018] (#1)
+
+
+## *Stundenblog*
+
+## <a name="1"></a> Dienstag, 03. August 2021
 
 Da wir heute unsere erste Informatikstunden hatten, haben wir uns nach einer Einführung durch Herrn Buhl zunächst einen GitHub-Account angelegt. Anschließend haben wir uns Projekte ehemaliger Schüler angeguckt, um uns erste Eindrücke über die Mölichkeiten zu verschaffen. Zudem haben wir uns die verschiedenen vorgeschlagenen Programmiersprachen angesehen und überlegt, welche davon für uns als Anfänger in Frage kommen könnten.
 
