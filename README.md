@@ -4,11 +4,16 @@
 ## *Inhaltsverzeichnis*
 
 [1.   Dienstag, 03. August 2018](#1)
+
 [2.   Mittwoch, 04. August 2018](#2)
+
 [3.   Mittwoch, 04. August 2018](#3)
+
 [4.   Dienstag, 10. August 2018](#4)
+
 [5.   Dienstag, 24. August 2018](#5)
-[2.   Mittwoch, 25. August 2018](#6)
+
+[6.   Mittwoch, 25. August 2018](#6)
 
 
 
