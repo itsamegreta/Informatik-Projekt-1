@@ -3,7 +3,7 @@
 
 ## *Inhaltsverzeichnis*
 
-[1. Dienstag, 03. August 2018] (#1)
+[1.   Dienstag, 03. August 2018](#1)
 
 
 ## *Stundenblog*
