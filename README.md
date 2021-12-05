@@ -59,7 +59,11 @@
 
 [28.  Mittwoch, 1. Dezember 2021](#28)
 
-[29.  Sonntag, 5. Dezember 2021](#29)
+[29.  Freitag, 3. Dezember 2021](#29)
+
+[28.  Samstag, 1. Dezember 2021](#30)
+
+[31.  Sonntag, 5. Dezember 2021](#31)
 
 
 ## *Stundenblog*
@@ -274,11 +278,16 @@ Laura war heute krank. Ich habe den Hintergrund, den wir letzte Stunde erstellt 
 
 ![Unbenannt](https://user-images.githubusercontent.com/88386035/144738533-e08faaaf-93a7-43ce-9843-e3e4a7f2c24f.PNG)
 
-Außerdem habe ich die Projektseite begonnen und habe dies in Erklärung der Programms usw unterteilt...
+Außersen habe ich mich damit auseinandergesetzt, wie man ein Inhaltsverzeichnis bei unserem Blog einfügen kann. Nachdem ich verstanden habe wie es geht habe ich jeden Stundeneintrag in das Inhaltsverzeichnis übernommen. Man kann jetzt also im Inhaltsverzeichnis auf ein Datuk klicken und wird dann automatisch auf den Eintrag des Tages weitergeleitet.
 
-Ich habe dazu mich damit auseinandergesetzt, wie man ein Inhaltsverzeichnis bei unserem Blog einfügen kann. Nachdem ich verstanden habe wie es geht habe ich jeden Stundeneintrag in das Inhaltsverzeichnis übernommen. Man kann jetzt also im Inhaltsverzeichnis auf ein Datuk klicken und wird dann automatisch auf den Eintrag des Tages geleitet 
+In der Stunde habe ich außerdem ich mit der Projektseite begonnen und diese zu gestalten. Den Blog habe ich in ein Inhaltsverzeichnis unterteilt. Dabie werde ich erstmal die Idee hinter dem Spiel ansich erklären.
 
-## <a name="29"></a> Sonntag, 5. Dezember 2021
+## <a name="29"></a> Sonntag, 3. Dezember 2021
+
+
+## <a name="30"></a> Sonntag, 4. Dezember 2021
+
+## <a name="31"></a> Sonntag, 5. Dezember 2021
 
 Wir haben uns heute noch einmal getroffen um unser Projekt noch den letzten Schliff zu geben und die Projektseite zu beenden. 
 
