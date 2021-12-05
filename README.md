@@ -271,7 +271,8 @@ Laura war heute krank. Ich habe den Hintergrund in das Spiel eingefügt.
 
 Außerdem habe ich die Projektseite begonnen und habe dies in Erklärung der Programms usw unterteilt...
 
-Ich h
+Ich habe dazu mich damit auseinandergesetzt, wie man ein Inhaltsverzeichnis bei unserem Blog einfügen kann. Nachdem ich verstanden habe wie es geht habe ich jeden Stundeneintrag in das Inhaltsverzeichnis übernommen. Man kann jetzt also im Inhaltsverzeichnis auf ein Datuk klicken und wird dann automatisch auf den Eintrag des Tages geleitet 
+
 ## <a name="29"></a> Sonntag, 5.Dezember 2021
 
 Wir haben uns heute noch einmal getroffen um unser Projekt noch den letzten Schliff zu geben und die Projektseite zu beenden. 
