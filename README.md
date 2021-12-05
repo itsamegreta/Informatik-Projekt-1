@@ -87,6 +87,7 @@ Heute nach der Informatikstunde habe ich (Greta) mich zu Hause noch weiter mit S
 Während des Programmierens habe ich mir verschiedene Tutorials angesehen, in denen verschiedene Schritte erklärt wurden. Für einen ersten Versuch etwas mit Snap! zu programmieren hat es meiner Meinung nach für Testzwecke ganz gut funktioniert und es hat kürzer gedauert als ich erwartet habe. 
 
 Anbei mehrere Screenshots des Codes und einer des einfachgehaltenen Spiels
+
 ![BDAD82AF-763A-40DE-B13F-29BAB4F28C34](https://user-images.githubusercontent.com/88386040/128574017-0d26d227-1c57-412d-9c56-54bf15c123ec.jpeg)
 ![5A54C0D7-583F-4854-A0AB-19041E57F9A0](https://user-images.githubusercontent.com/88386040/128574021-23659eef-983b-4dba-9268-fca7e65c9fbc.jpeg)
 ![7BD37E60-DE95-409A-9D78-83A0B576B89C](https://user-images.githubusercontent.com/88386040/128574023-f7ae731a-f108-4d56-8b3a-3cc4538ee109.jpeg)
