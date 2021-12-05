@@ -251,6 +251,8 @@ Eine weitere Funktion die die Meteoriten haben, ist dass sie dem Dino ab heute L
 
 Ich (Laura, da Greta immer noch krank war) habe heute die Lebensanzeige eingefügt. Diese verliert jedes Mal ein Herz, wenn ein Meteorit den Dino auf ihn trifft. Außerdem habe ich den toten Dino hinzugefügt. Dieser wird angezeigt, wenn der Schriftzug Game Over eingeblendet wird. Dabei war das Problem, dass der Dino nicht auf der richtigen Höhe war. Deshalb habe noch ein set y to -50 eingefügt. Jetzt liegt der tote Dino genau auf den Boden. Der Dino taucht auf sobald alle drei Leben verloren sind. 
 
+![block 2](https://user-images.githubusercontent.com/88386035/144740808-d5ceb3f7-8eda-487e-8e67-616a6dab48a0.PNG)
+
 ## <a name="27"></a> Dienstag, 30. November 2021
 
 Heute haben wir den Hintergrund für das Spiel erstellt. 
@@ -267,8 +269,9 @@ Laura war heute krank. Ich habe den Hintergrund in das Spiel eingefügt.
 
 ![Unbenannt](https://user-images.githubusercontent.com/88386035/144738533-e08faaaf-93a7-43ce-9843-e3e4a7f2c24f.PNG)
 
-Außerdem 
+Außerdem habe ich die Projektseite begonnen und habe dies in Erklärung der Programms usw unterteilt...
 ## <a name="29"></a> Sonntag, 5.Dezember 2021
 
+Wir haben uns heute noch einmal getroffen um unser Projekt noch den letzten Schliff zu geben und die Projektseite zu beenden. 
 
 
