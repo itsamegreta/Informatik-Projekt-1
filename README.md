@@ -51,7 +51,7 @@
 
 [24.  Dienstag, 23. November 2021](#24)
 
-[25.  Mittwoch, 24. November 2021](#25)
+[25.  Mittwoch, 24. November 2021](#26)
 
 [26.  Dienstag, 30. November 2021](#26)
 
