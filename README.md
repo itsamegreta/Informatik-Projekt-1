@@ -111,7 +111,7 @@ Zudem haben wir programmiert, dass der Dinosaurier, sobald er den Rand berührt,
 
 ## <a name="7"></a> Dienstag, 31. August 2021
 
-Heute haben wir uns zu Beginn der Stunde mit dem realistischen Springen der Figur beschäftigt. Dies hat semi gut geklappt. Außerdem haben wir begonnen "Meteoriten" als neue Spites zu erstellen, welche an verschiedenen Stellen und Zeitpunkten auf den Dinosaurier fallen. Wenn man es mit dem Dinosaurier nicht schafft auszuweichen und von einem Meteoriten getroffen wird, stirbt der Dino, bzw. das Costume wird geändert, und wird nach einigen Sekunden wieder in seinem alten, lebenden Costume gezeigt, woraufhin der Spieler weiter spielen kann. Wir haben zudem begonnen die Meteoriten und die weitere Dino-Grafik zu erstellen.
+Heute haben wir uns zu Beginn der Stunde mit dem realistischen Springen der Figur beschäftigt. Dies hat noch nicht so gut funktioniert. Außerdem haben wir begonnen "Meteoriten" als neue Spites zu erstellen, welche an verschiedenen Stellen und Zeitpunkten auf den Dinosaurier fallen. Wenn man es mit dem Dinosaurier nicht schafft auszuweichen und von einem Meteoriten getroffen wird, stirbt der Dino, bzw. das Costume wird geändert, und wird nach einigen Sekunden wieder in seinem alten, lebenden Costume gezeigt, woraufhin der Spieler weiter spielen kann. Wir haben zudem begonnen die Meteoriten und die weitere Dino-Grafik zu erstellen.
 
 Wir müssen jedoch noch Hindernisse erstellen und uns überlegen, ob man beim Treffen eines Meteorits oder Hindernissen ein Leben verliert, nichts passiert oder von vorne begonnen werden muss. Wenn wir diese Frage geklärt haben können wir auch daran weiterarbeiten.
 
@@ -133,9 +133,9 @@ Heute haben wir, nachdem wir beide versucht haben unser Problem zu beheben, tele
 
 ## <a name="11"></a> Dienstag, 7. September 2021
 
-Ich (Laura) habe auf die zuletzt gespeicherte Version, wo alles noch funktioniert hat, zugegriffen und habe die Meteoriten Grafik erneut eingefügt. Dabei hat sich nur das Problem ergeben, dass bisher der Meteorit von oben senkrecht runter fällt. Dies ist jedoch nicht wirklich realistisch. Daher habe ich versucht einen Weg zu finden, dass der Meteorit leicht schräg ins Bild fliegt. 
+Ich (Laura) habe ein neues Projekt bei Snap! gestartet, damit wir uns mit unserer neuen Spielrichtung anfangen können. Als erstes habe kch die Meteoriten hinzugefügt. Dabei hat sich nur das Problem ergeben, dass bisher der Meteorit von oben senkrecht runter fällt. Dies ist jedoch nicht wirklich realistisch. Daher habe ich versucht einen Weg zu finden, dass der Meteorit leicht schräg ins Bild fliegt. 
 
-Am Ende der Stunde habe ich das Problem fast gelöst, indem ich ein "point in direction 210" eingefügt habe. Der Meteorit liegt jedoch immer noch nicht ganz richtig. Um das Problem zu lösen habe ich noch mehrere Meteoriten angefertig die verschieden gedreht sind. Dabei war jedoch immer noch nicht der perfekte dabei. Um das Problem werden wir uns nächste Stunde kümmern. Außerdem müssen wir die dritte Dino-Grafik noch etwas runter setzen, damit das ganze realistischer aussieht. 
+Am Ende der Stunde habe ich das Problem fast gelöst, indem ich ein "point in direction 210" eingefügt habe. Der Meteorit liegt jedoch immer noch nicht ganz richtig. Um das Problem werden wir uns nächste Stunde kümmern. Außerdem müssen wir die dritte Dino-Grafik noch etwas runter setzen, damit das ganze realistischer aussieht. 
 
 ![block](https://user-images.githubusercontent.com/88386035/144740013-466b3a93-2325-4873-96af-687e8a5dfbb5.PNG)
 
@@ -189,11 +189,11 @@ In der heutigen Stunde konnten wir leider nicht an unserem Snap! Projekt weitera
 
 Die Seite Snap! konnten wir nur einmal öffnen, doch nachdem der Computer erneut abgestürzt ist, haben wir uns entschlossen, stattdessen unsere letzten Github-Einträge grammatikalisch zu überarbeiten. 
  
-+ Bild Computer Screen 
+![image](https://user-images.githubusercontent.com/88386035/144747802-4daec97c-3482-45d2-81d0-ba4eeb907da8.jpeg)
 
 ## <a name="19"></a> Dienstag, 02. November 2021
 
-In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande und teilweise war garkein Spiel möglich, da der Dino und die Meteoriten in der Luft hängen geblieben sind und nicht zurück gesetzt werden konnten. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet plötzlich. Dies betrifft nicht nur den lebenden Dino, sondern auch den toten Dino zu (siehe Bild). Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren und den Fehler zu finden. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
+In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande und teilweise war gar kein Spiel möglich, da der Dino und die Meteoriten in der Luft hängen geblieben sind und nicht zurück gesetzt werden konnten. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet plötzlich. Dies betrifft nicht nur den lebenden Dino, sondern auch den toten Dino (siehe Bild). Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren und den Fehler zu finden. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
 
 ![Bild dino](https://user-images.githubusercontent.com/88386035/143237691-a8ceff92-c5bf-4c33-b228-da31f240534f.PNG)
 
@@ -231,20 +231,20 @@ In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf
 
 ## <a name="24"></a> Samstag, 20. November 2021
 
-Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in die alte Richtung zu bringen. Wir wollen unser Spiel von Anfang mit dem anderen Spiel verknüpfen. 
+Wir haben uns heute getroffen um das Problem zu lösen. Wir möchten, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in die alte Richtung zu bringen. Wir wollen unser Spiel von Anfang mit dem anderen Spiel verknüpfen. 
 
-Da das mit dem bewegten Hintergund nur halbwegs geklappt hat, werden wir auf unsere alte Methode zurückgreifen. Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. 
+Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. 
 
-Außerdem haben wir den Schriftzug "START" eingebaut. Sobald man Start anklickt, wird "Spiel Beginn" gebroadcastet und das Spiel beginnt. Dies ist der erste Versuch etwas mit den Blöcken "broadcast" und "when I receive" genutzt und werden wenn sich dies als erfolgreich erweist, weitere Funktionen damit einbauen.
-Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
+Außerdem haben wir den Schriftzug "START" eingebaut. Sobald man Start anklickt, wird "Spiel Beginn" gebroadcastet und das Spiel beginnt. Dies ist der erste Versuch etwas mit den Blöcken "broadcast" und "when I receive" zu machen. Wenn sich dies als erfolgreich erweist, werdem wir weitere Funktionen damit einbauen.
+Der Dino ist in der vorderen Ebene und taucht auf, sobald auf die Schrift Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
 
 ## <a name="25"></a> Dienstag, 23. November 2021
 
 Wir haben zusammen an dem Spiel weitergearbeitet. Greta war heute krank, jedoch haben wir telefoniert und so konnten wir zusammen weiterarbeiten.
-Wir haben heute das Game Over hinzugefügt. Diese soll auftauchen, sobald die Lebensanzeige gleich null ist, da "Game Over" gebroadcastet werden soll, also wenn der Dino von drei Metoeriten getroffen wurde. Am Anfang soll der Schriftzug versteckt werden und soll dazu führen, dass der ganze Spielablauf gestoppt wird. 
+Wir haben heute das "Game Over" hinzugefügt. Dies taucht auf, sobald die Lebensanzeige gleich null ist, da "Game Over" gebroadcastet werden soll, also wenn der Dino von drei Metoeriten getroffen wurde. Am Anfang ist der Schriftzug versteckt. Eine Funktion führt dazu, dass der ganze Spielablauf gestoppt wird, wenn der Dino von drei Meteoriten getroffen wurde. 
 
-Außerdem haben wir die Meteoriten hinzugefügt. Wir haben dieses Mal nicht wie beim letzten Mal mehrere Sprites erstellt, sondern einen Meteoriten, der während des Spiels immer wieder geklont wird, da wir somit das Problem des ersten Spieles, also, dass sich das Spiel durch zu viele Sprites und ablaufende Funktionen aufhängt.
-Dabei kann er sich jedes Mal eine Position zwischen -200 und 200 aussuchen. Somit ist es jedes Mal zufällig, wobei der Meteorit herunterfällt.
+Außerdem haben wir die Meteoriten hinzugefügt. Wir haben dieses Mal nicht wie beim letzten Mal mehrere Sprites erstellt, sondern einen Meteoriten, der während des Spiels immer wieder geklont wird, da wir somit das Problem des ersten Spieles, also, dass sich das Spiel durch zu viele Sprites und ablaufende Funktionen aufhängt, gelöst haben.
+Dabei kann er sich jedes Mal eine Position zwischen -200 und 200 aussuchen. Somit ist es jedes Mal zufällig, wo der Meteorit herunterfällt.
 
 ![lol](https://user-images.githubusercontent.com/88386035/144740193-7dc2e471-37f5-4520-9608-ecb3e495a9f9.PNG)
 
@@ -258,7 +258,7 @@ Eine weitere Funktion die die Meteoriten haben, ist dass sie dem Dino ab heute L
 
 ## <a name="26"></a> Mittwoch, 24. November 2021
 
-Ich (Laura, da Greta immer noch krank war) habe heute die Lebensanzeige eingefügt. Diese verliert jedes Mal ein Herz, wenn ein Meteorit den Dino auf ihn trifft. Außerdem habe ich den toten Dino hinzugefügt. Dieser wird angezeigt, wenn der Schriftzug Game Over eingeblendet wird. Dabei war das Problem, dass der Dino nicht auf der richtigen Höhe war. Deshalb habe noch ein set y to -50 eingefügt. Jetzt liegt der tote Dino genau auf den Boden. Der Dino taucht auf sobald alle drei Leben verloren sind. 
+Ich (Laura, da Greta immer noch krank war) habe heute die Lebensanzeige eingefügt. Diese verliert jedes Mal ein Herz, wenn ein Meteorit den Dino auf ihn trifft. Außerdem habe ich den toten Dino hinzugefügt. Dieser wird angezeigt, wenn der Schriftzug Game Over eingeblendet wird. Dabei war das Problem, dass der Dino nicht auf der richtigen Höhe war. Deshalb habe noch ein set y to -50 eingefügt. Jetzt liegt der tote Dino genau auf den Boden. Der tote Dino taucht auf sobald alle drei Leben verloren sind. 
 
 ![block 2](https://user-images.githubusercontent.com/88386035/144740808-d5ceb3f7-8eda-487e-8e67-616a6dab48a0.PNG)
 
@@ -268,7 +268,7 @@ Heute haben wir den Hintergrund für das Spiel erstellt.
 
 ![hintergrund](https://user-images.githubusercontent.com/88386035/144738399-960ced8c-2030-401d-945d-6c7db279c133.png)
 
-Wir haben außerdem einen Timer erstellt. Dadurch wird die Spielzeit begrenzt. Danach haben wir den Schriftzug Congratulations mit eingebaut. Dieser Schriftzug wird eingeblendet sobald der Timer abgelaufen ist und noch nicht alle Leben verloren sind. Außerdem haben wir die Funktion hinzugefügt das, wenn man alsuf die aschriftzüge Game Over oder Congratulations drückt das Spiel wieder neu startet. Wir hatten schon seit längeren das Problem, dass die Meteoriten plötzlich am Boden hängengeblieben sind. Wir haben dies gelöst indem wir folgenden Block eingefügt haben:
+Wir haben außerdem einen Timer erstellt. Dadurch wird die Spielzeit begrenzt. Danach haben wir den Schriftzug "Congratulations" mit eingebaut. Dieser Schriftzug wird eingeblendet sobald der Timer abgelaufen ist und noch nicht alle Leben verloren sind. Außerdem haben wir die Funktion hinzugefügt das, wenn man auf die Schriftzüge "Game Over" oder "Congratulations" drückt das Spiel wieder neu startet. Wir hatten schon seit längeren das Problem, dass die Meteoriten plötzlich am Boden hängengeblieben sind. Wir haben dies gelöst indem wir folgenden Block eingefügt haben:
 
 ![Bild für Blog](https://user-images.githubusercontent.com/88386040/144070244-4542b483-b939-4003-a2bc-0e8fdb4ed25a.png)
 
@@ -278,9 +278,9 @@ Laura war heute krank. Ich habe den Hintergrund, den wir letzte Stunde erstellt 
 
 ![Unbenannt](https://user-images.githubusercontent.com/88386035/144738533-e08faaaf-93a7-43ce-9843-e3e4a7f2c24f.PNG)
 
-Außersen habe ich mich damit auseinandergesetzt, wie man ein Inhaltsverzeichnis bei unserem Blog einfügen kann. Nachdem ich verstanden habe wie es geht habe ich jeden Stundeneintrag in das Inhaltsverzeichnis übernommen. Man kann jetzt also im Inhaltsverzeichnis auf ein Datuk klicken und wird dann automatisch auf den Eintrag des Tages weitergeleitet.
+Außerdem habe ich mich damit auseinandergesetzt, wie man ein Inhaltsverzeichnis bei unserem Blog einfügen kann. Nachdem ich verstanden habe wie es geht, habe ich jeden Stundeneintrag in das Inhaltsverzeichnis übernommen. Man kann jetzt also im Inhaltsverzeichnis auf ein Datum klicken und wird dann automatisch auf den Eintrag des Tages weitergeleitet.
 
-In der Stunde habe ich außerdem ich mit der Projektseite begonnen und diese zu gestalten. Den Blog habe ich in ein Inhaltsverzeichnis unterteilt. Dabei werde ich erstmal die Idee hinter dem Spiel ansich erklären.
+Am Nachmittag habe ich mit der Projektseite begonnen und diese zu gestalten. Den Blog habe ich in ein Inhaltsverzeichnis unterteilt. Dabei werde ich erstmal die Idee hinter dem Spiel an sich erklären.
 
 ## <a name="29"></a> Sonntag, 3. Dezember 2021
 
@@ -292,7 +292,7 @@ Ich (Greta) habe heute weiter an der Projektsseite gearbeitet. Dabei habe ich je
 
 ## <a name="31"></a> Sonntag, 5. Dezember 2021
 
-Wir haben uns heute noch einmal getroffen um unser Projekt noch den letzten Schliff zu geben. Es ist nun vollständig fertiggestellt. 
+Wir haben uns heute noch einmal getroffen um unser Projekt noch den letzten Schliff zu geben. 
 Wir haben auch die Zeit genutzt um die Projektseite zu beenden. Außerdem haben wir unseren Blog noch einmal auf grammatikalische Rechtschreibfehler durchgelesen. 
-
+Unser Blog und die Projektseite sind nun vollständig und somit ist unser Projekt fertiggestellt.
 
