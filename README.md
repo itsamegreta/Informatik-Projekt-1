@@ -299,6 +299,8 @@ Ich (Greta) habe heute weiter an der Projektsseite gearbeitet. Dabei habe ich je
 
 Wir haben uns heute noch einmal getroffen um unser Projekt noch den letzten Schliff zu geben. Wir haben noch einen Block eingefügt, der das Spiel den Spieler erklärt: 
 
+![image](https://user-images.githubusercontent.com/88386035/144750520-ed5a1682-16d6-4f41-ba33-cd6124151a99.jpeg)
+
 Wir haben auch die Zeit genutzt um die Projektseite zu beenden. Außerdem haben wir unseren Blog noch einmal auf grammatikalische Rechtschreibfehler durchgelesen. 
 
 Unser Blog und die Projektseite sind nun vollständig und somit ist unser Projekt fertiggestellt.
