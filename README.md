@@ -247,5 +247,8 @@ Wir haben außerdem einen Timer erstellt. Dadurch wird die Spielzeit begrenzt. D
 
 ![Bild für Blog](https://user-images.githubusercontent.com/88386040/144070244-4542b483-b939-4003-a2bc-0e8fdb4ed25a.png)
 
+## <a name="28"></a> Mittwoch, 1. Dezember 2021
+
+
 
 
