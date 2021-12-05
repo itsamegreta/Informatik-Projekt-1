@@ -285,7 +285,7 @@ Außerdem habe ich mich damit auseinandergesetzt, wie man ein Inhaltsverzeichnis
 
 Am Nachmittag habe ich mit der Projektseite begonnen und diese zu gestalten. Den Blog habe ich in ein Inhaltsverzeichnis unterteilt. Dabei werde ich erstmal die Idee hinter dem Spiel an sich erklären.
 
-Link zur Projektseite: https://github.com/itsamegreta/Projektseite-HJ1
+Link zur Projektseite vom ersten Projekt: https://github.com/itsamegreta/Projektseite-HJ1
 
 ## <a name="29"></a> Sonntag, 3. Dezember 2021
 
