@@ -256,6 +256,11 @@ Wir haben außerdem einen Timer erstellt. Dadurch wird die Spielzeit begrenzt. D
 
 ## <a name="28"></a> Mittwoch, 1. Dezember 2021
 
+Laura war heute krank. Ich habe den Hintergrund in das Spiel eingefügt. 
+
+![Unbenannt](https://user-images.githubusercontent.com/88386035/144738533-e08faaaf-93a7-43ce-9843-e3e4a7f2c24f.PNG)
+
+Außerdem 
 ## <a name="29"></a> Sonntag, 5.Dezember 2021
 
 
