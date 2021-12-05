@@ -113,6 +113,8 @@ Wir müssen jedoch noch Hindernisse erstellen und uns überlegen, ob man beim Tr
 
 Zu Beginn der Stunde haben wir die dritte Dino-Grafik und den Meteoriten fertig gestellt. Diese haben wir begonnen ins Spiel einzufügen und haben die Koordniaten der Dino-Grafik (neu) so eingestellt, dass dieser sich auf unserer "Bodenebene" befindet. 
 
+![m für grade (1)](https://user-images.githubusercontent.com/88386035/144739771-760727bb-34ad-49a8-a372-badedad14581.png)
+
 Danach hat sich das Problem ergeben, dass der Dinosaurier trotz durchführung aller Befehle und Funktion der Pfeiltasten und Laufbewegung nicht mehr angezeigt wurde. Das Problem konnte auch durch einen Neustart nicht gelöst werden und wir werden uns in der nächsten Stunde damit beschäftigen und im Notfall auf unsere letzte gespeicherte Version vor der Stunde heute zugreifen. 
 
 ## <a name="9"></a> Freitag, 3. September 2021
