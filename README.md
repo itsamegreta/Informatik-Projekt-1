@@ -236,6 +236,9 @@ Wir haben zusammen an dem Spiel weitergearbeitet. Greta war heute krank, jedoch 
 Wir haben heute das Game Over hinzugefügt. Diese soll auftauchen, sobald die Lebensanzeige gleich null ist, da "Game Over" gebroadcastet werden soll, also wenn der Dino von drei Metoeriten getroffen wurde. Am Anfang soll der Schriftzug versteckt werden und soll dazu führen, dass der ganze Spielablauf gestoppt wird. 
 Außerdem haben wir die Meteoriten hinzugefügt. Wir haben dieses Mal nicht wie beim letzten Mal mehrere Sprites erstellt, sondern einen Meteoriten, der während des Spiels immer wieder geklont wird, da wir somit das Problem des ersten Spieles, also, dass sich das Spiel durch zu viele Sprites und ablaufende Funktionen aufhängt.
 Dabei kann er sich jedes Mal eine Position zwischen -200 und 200 aussuchen. Somit ist es jedes Mal zufällig, wobei der Meteorit herunterfällt.
+
+![lol](https://user-images.githubusercontent.com/88386035/144740193-7dc2e471-37f5-4520-9608-ecb3e495a9f9.PNG)
+
 Eine weitere Funktion die die Meteoriten haben, ist dass sie dem Dino ab heute Leben abziehen können, wenn sie ihn treffen. Somit stirbt der Dino nicht direkt, sondern man hat drei Chancen. Dafür haben wir eine Variable "Leben" erstellt und diese zu drei gesetzt. Für diese haben wir zuerst vier Costumes designed, nämlich jeweils für drei bis null Herzen. 
 
 ![herzen drei](https://user-images.githubusercontent.com/88386040/144076484-50237ed6-70b0-4a6a-91d9-e54986e25343.png)
