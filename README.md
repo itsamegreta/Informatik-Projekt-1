@@ -247,6 +247,9 @@ Ich (Laura, da Greta immer noch krank war) habe heute die Lebensanzeige eingefü
 ## <a name="27"></a> Dienstag, 30. November 2021
 
 Heute haben wir den Hintergrund für das Spiel erstellt. 
+
+![hintergrund](https://user-images.githubusercontent.com/88386035/144738399-960ced8c-2030-401d-945d-6c7db279c133.png)
+
 Wir haben außerdem einen Timer erstellt. Dadurch wird die Spielzeit begrenzt. Danach haben wir den Schriftzug Congratulations mit eingebaut. Dieser Schriftzug wird eingeblendet sobald der Timer abgelaufen ist und noch nicht alle Leben verloren sind. Außerdem haben wir die Funktion hinzugefügt das, wenn man alsuf die aschriftzüge Game Over oder Congratulations drückt das Spiel wieder neu startet. Wir hatten schon seit längeren das Problem, dass die Meteoriten plötzlich am Boden hängengeblieben sind. Wir haben dies gelöst indem wir folgenden Block eingefügt haben:
 
 ![Bild für Blog](https://user-images.githubusercontent.com/88386040/144070244-4542b483-b939-4003-a2bc-0e8fdb4ed25a.png)
