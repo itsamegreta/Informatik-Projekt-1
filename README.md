@@ -87,7 +87,7 @@ Anbei mehrere Screenshots des Codes und einer des einfachgehaltenen Spiels![BDAD
 
 ## <a name="4"></a> Dienstag, 10. August 2021
 
-Heute habe ich (Laura) alleine (da Greta krank war) mich weiter mit Snap! beschäftigt. Mein Ziel für die Stunde war es, dass ich mich noch mal mehr mit Snap! auseinadersetze und die Programmiersprache verstehe. Dafür habe ich auf den Blog von Herrn Buhl habe ich die Seite: https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/2-start-your-first-snap-app.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment gefunden. Dort habe ich die erste Unit durchgearbeitet. Jetzt kann mein Kreis zum Beispiel reden, wenn man die grüne Fahne drückt oder er bewegt sich, wenn man auf den Kreis drückt. Außerdem habe ich noch andere Funktionen getestet und habe mein Ziel erreicht für die heutige Stunde erreicht. 
+Heute habe ich (Laura) alleine (da Greta krank war) mich weiter mit Snap! beschäftigt. Mein Ziel für die Stunde war es, dass ich mich noch mal mehr mit Snap! auseinadersetze und die Programmiersprache verstehe. Dafür habe ich auf den Blog von Herrn Buhl die Seite: https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/2-start-your-first-snap-app.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment gefunden. Dort habe ich die erste Unit durchgearbeitet. Jetzt kann mein Kreis zum Beispiel reden, wenn man die grüne Fahne drückt oder er bewegt sich, wenn man auf den Kreis drückt. Außerdem habe ich noch andere Funktionen getestet und habe mein Ziel für die heutige Stunde erreicht. 
 
 ## <a name="5"></a> Dienstag, 24. August 2021
 
@@ -95,7 +95,7 @@ Heute haben wir zusammen unseren Spielcharakter überarbeitet, der zuvor von uns
 
 ![E09D73DD-3B62-427C-9EC0-2122D7EA06AD](https://user-images.githubusercontent.com/88386040/131507219-c3815d49-416b-4d7f-98a2-086e9f45d7d3.jpeg)
 
-Außerdem haben wir begonnen zu programmieren, dass der Dinosaurier sich durch die Pfeiltasten in verschiedene Richtungen bewegen kann. Dabi hat sich das Problem ergeben, dass der Dinosaurier sich bis jetzt nur überkopf zurückbewegen kann. Mit diesem Problem werden wir uns in der nächsten Stunde beschäftigen. 
+Außerdem haben wir begonnen zu programmieren, dass der Dinosaurier sich durch die Pfeiltasten in verschiedene Richtungen bewegen kann. Dabi hat sich das Problem ergeben, dass der Dinosaurier sich bis jetzt nur über Kopf zurückbewegen kann. Mit diesem Problem werden wir uns in der nächsten Stunde beschäftigen. 
 
 ## <a name="6"></a> Mittwoch, 25. August 2021
 
@@ -107,7 +107,7 @@ Zudem haben wir programmiert, dass der Dinosaurier, sobald er den Rand berührt,
 
 Heute haben wir uns zu Beginn der Stunde mit dem realistischen Springen der Figur beschäftigt. Dies hat semi gut geklappt. Außerdem haben wir begonnen "Meteoriten" als neue Spites zu erstellen, welche an verschiedenen Stellen und Zeitpunkten auf den Dinosaurier fallen. Wenn man es mit dem Dinosaurier nicht schafft auszuweichen und von einem Meteoriten getroffen wird, stirbt der Dino, bzw. das Costume wird geändert, und wird nach einigen Sekunden wieder in seinem alten, lebenden Costume gezeigt, woraufhin der Spieler weiter spielen kann. Wir haben zudem begonnen die Meteoriten und die weitere Dino-Grafik zu erstellen.
 
-Wir müssen jedoch noch Hindernisse erstellen und uns überlegen, ob man beim Treffen eines Meteors oder Hindernissen ein Leben verliert, nichts passiert oder von vorne begonnen werden muss. Wenn wir diese Frage geklärt haben können wir auch daran weiterarbeiten.
+Wir müssen jedoch noch Hindernisse erstellen und uns überlegen, ob man beim Treffen eines Meteorits oder Hindernissen ein Leben verliert, nichts passiert oder von vorne begonnen werden muss. Wenn wir diese Frage geklärt haben können wir auch daran weiterarbeiten.
 
 ## <a name="8"></a> Mittwoch, 1. September 2021
 
