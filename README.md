@@ -280,15 +280,19 @@ Laura war heute krank. Ich habe den Hintergrund, den wir letzte Stunde erstellt 
 
 Außersen habe ich mich damit auseinandergesetzt, wie man ein Inhaltsverzeichnis bei unserem Blog einfügen kann. Nachdem ich verstanden habe wie es geht habe ich jeden Stundeneintrag in das Inhaltsverzeichnis übernommen. Man kann jetzt also im Inhaltsverzeichnis auf ein Datuk klicken und wird dann automatisch auf den Eintrag des Tages weitergeleitet.
 
-In der Stunde habe ich außerdem ich mit der Projektseite begonnen und diese zu gestalten. Den Blog habe ich in ein Inhaltsverzeichnis unterteilt. Dabie werde ich erstmal die Idee hinter dem Spiel ansich erklären.
+In der Stunde habe ich außerdem ich mit der Projektseite begonnen und diese zu gestalten. Den Blog habe ich in ein Inhaltsverzeichnis unterteilt. Dabei werde ich erstmal die Idee hinter dem Spiel ansich erklären.
 
 ## <a name="29"></a> Sonntag, 3. Dezember 2021
 
+Wir haben heute getrennt voneinander nochmal unsere Blogeinträge überarbeitet und die Projektseite weiter gestaltet. Bei der Projektseite habe ich (Greta) das Programm Snap! erst einmal erklärt. Danach folgt die Umsetzung des Konzepts. Dabei gehe ich auf die Funktionen in unseren Spiel ein. Wie zum Beispiel die Variablen. 
 
 ## <a name="30"></a> Sonntag, 4. Dezember 2021
 
+Ich (Greta) habe heute weiter an der Projektsseite gearbeitet. Dabei habe ich jetzt zu dem Inhaltsverzeichnis noch weitere Punkte hinzugefügt und diese erklärt. 
+
 ## <a name="31"></a> Sonntag, 5. Dezember 2021
 
-Wir haben uns heute noch einmal getroffen um unser Projekt noch den letzten Schliff zu geben und die Projektseite zu beenden. 
+Wir haben uns heute noch einmal getroffen um unser Projekt noch den letzten Schliff zu geben. Es ist nun vollständig fertiggestellt. 
+Wir haben auch die Zeit genutzt um die Projektseite zu beenden. Außerdem haben wir unseren Blog noch einmal auf grammatikalische Rechtschreibfehler durchgelesen. 
 
 
