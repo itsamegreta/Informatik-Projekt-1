@@ -226,7 +226,9 @@ In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf
 ## <a name="24"></a> Samstag, 20. November 2021
 
 Wir haben uns heute getroffen um das Problem zu lösen, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in die alte Richtung zu bringen. Wir wollen unser Spiel von Anfang mit dem anderen Spiel verknüpfen. 
+
 Da das mit dem bewegten Hintergund nur halbwegs geklappt hat, werden wir auf unsere alte Methode zurückgreifen. Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. 
+
 Außerdem haben wir den Schriftzug "START" eingebaut. Sobald man Start anklickt, wird "Spiel Beginn" gebroadcastet und das Spiel beginnt. Dies ist der erste Versuch etwas mit den Blöcken "broadcast" und "when I receive" genutzt und werden wenn sich dies als erfolgreich erweist, weitere Funktionen damit einbauen.
 Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
 
@@ -234,6 +236,7 @@ Der Dino ist in der vorderen Ebene und taucht auf sobald Start gedrückt wird. D
 
 Wir haben zusammen an dem Spiel weitergearbeitet. Greta war heute krank, jedoch haben wir telefoniert und so konnten wir zusammen weiterarbeiten.
 Wir haben heute das Game Over hinzugefügt. Diese soll auftauchen, sobald die Lebensanzeige gleich null ist, da "Game Over" gebroadcastet werden soll, also wenn der Dino von drei Metoeriten getroffen wurde. Am Anfang soll der Schriftzug versteckt werden und soll dazu führen, dass der ganze Spielablauf gestoppt wird. 
+
 Außerdem haben wir die Meteoriten hinzugefügt. Wir haben dieses Mal nicht wie beim letzten Mal mehrere Sprites erstellt, sondern einen Meteoriten, der während des Spiels immer wieder geklont wird, da wir somit das Problem des ersten Spieles, also, dass sich das Spiel durch zu viele Sprites und ablaufende Funktionen aufhängt.
 Dabei kann er sich jedes Mal eine Position zwischen -200 und 200 aussuchen. Somit ist es jedes Mal zufällig, wobei der Meteorit herunterfällt.
 
