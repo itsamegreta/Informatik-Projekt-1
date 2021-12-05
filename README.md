@@ -47,17 +47,19 @@
 
 [22.  Dienstag, 16. November 2021](#22)
 
-[23.  Samstag,  20. November 2021](#23)
+[23.  Mittwoch, 17. November 2021](#23)
 
-[24.  Dienstag, 23. November 2021](#24)
+[24.  Samstag,  20. November 2021](#24)
 
-[25.  Mittwoch, 24. November 2021](#26)
+[25.  Dienstag, 23. November 2021](#25)
 
-[26.  Dienstag, 30. November 2021](#27)
+[26.  Mittwoch, 24. November 2021](#26)
 
-[27.  Mittwoch, 1. Dezember 2021](#28)
+[27.  Dienstag, 30. November 2021](#27)
 
-[28.  Sonntag, 5. Dezember 2021](#29)
+[28.  Mittwoch, 1. Dezember 2021](#28)
+
+[29.  Sonntag, 5. Dezember 2021](#29)
 
 
 ## *Stundenblog*
