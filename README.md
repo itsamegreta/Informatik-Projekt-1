@@ -115,7 +115,7 @@ Zu Beginn der Stunde haben wir die dritte Dino-Grafik und den Meteoriten fertig 
 
 ![m für grade (1)](https://user-images.githubusercontent.com/88386035/144739771-760727bb-34ad-49a8-a372-badedad14581.png)
 
-Danach hat sich das Problem ergeben, dass der Dinosaurier trotz durchführung aller Befehle und Funktion der Pfeiltasten und Laufbewegung nicht mehr angezeigt wurde. Das Problem konnte auch durch einen Neustart nicht gelöst werden und wir werden uns in der nächsten Stunde damit beschäftigen und im Notfall auf unsere letzte gespeicherte Version vor der Stunde heute zugreifen. 
+Danach hat sich das Problem ergeben, dass der Dinosaurier trotz Durchführung aller Befehle und Funktion der Pfeiltasten und Laufbewegung nicht mehr angezeigt wurde. Das Problem konnte auch durch einen Neustart nicht gelöst werden und wir werden uns in der nächsten Stunde damit beschäftigen und im Notfall auf unsere letzte gespeicherte Version vor der Stunde heute zugreifen. 
 
 ## <a name="9"></a> Freitag, 3. September 2021
 
@@ -127,9 +127,11 @@ Heute haben wir, nachdem wir beide versucht haben unser Problem zu beheben, tele
 
 ## <a name="11"></a> Dienstag, 7. September 2021
 
-Das Problem von der letzten Stunde konnte nicht gelöst werden. Deshalb habe ich (Laura) auf die zuletzt gespeicherte Version, wo alles noch funktioniert hat, zugegriffen. Ich habe die Meteoriten Grafik erneut eingefügt. Dabei hat sich nur das Problem ergeben, dass bisher der Meteorit von oben senkrecht runter fällt. Dies ist jedoch nicht wirklich realistisch. Daher habe ich versucht einen Weg zu finden, dass der Meteorit leicht schräg ins Bild fliegt. 
+Ich (Laura) habe auf die zuletzt gespeicherte Version, wo alles noch funktioniert hat, zugegriffen und habe die Meteoriten Grafik erneut eingefügt. Dabei hat sich nur das Problem ergeben, dass bisher der Meteorit von oben senkrecht runter fällt. Dies ist jedoch nicht wirklich realistisch. Daher habe ich versucht einen Weg zu finden, dass der Meteorit leicht schräg ins Bild fliegt. 
 
-Der Meteorit fliegt jetzt leicht schräg ins Bild. Ich habe das Problem gelöst, indem ich ein "point in direction 210" eingefügt habe. Der Meteorit liegt jedoch immer noch nicht richtig. Um das Problem zu lösen habe ich noch mehrere Meteoriten angefertig die verschieden gedreht sind. Dabei war jedoch immer noch nicht der perfekte dabei. Um das Problem werden wir uns nächste Stunde kümmern. Außerdem müssen wir die dritte Dino-Grafik noch etwas runter setzen, damit das ganze realistischer aussieht. 
+Am Ende der Stunde habe ich das Problem fast gelöst, indem ich ein "point in direction 210" eingefügt habe. Der Meteorit liegt jedoch immer noch nicht ganz richtig. Um das Problem zu lösen habe ich noch mehrere Meteoriten angefertig die verschieden gedreht sind. Dabei war jedoch immer noch nicht der perfekte dabei. Um das Problem werden wir uns nächste Stunde kümmern. Außerdem müssen wir die dritte Dino-Grafik noch etwas runter setzen, damit das ganze realistischer aussieht. 
+
+![block](https://user-images.githubusercontent.com/88386035/144740013-466b3a93-2325-4873-96af-687e8a5dfbb5.PNG)
 
 ## <a name="12"></a> Mittwoch, 8. September 2021
 
