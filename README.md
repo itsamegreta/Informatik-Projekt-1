@@ -70,9 +70,9 @@
 
 ## <a name="1"></a> Dienstag, 03. August 2021
 
-Da wir heute unsere erste Informatikstunden hatten, haben wir uns nach einer Einführung durch Herrn Buhl zunächst einen GitHub-Account angelegt. Anschließend haben wir uns Projekte ehemaliger Schüler angeguckt, um uns erste Eindrücke über die Mölichkeiten zu verschaffen. Zudem haben wir uns die verschiedenen vorgeschlagenen Programmiersprachen angesehen und überlegt, welche davon für uns als Anfänger in Frage kommen könnten.
+Da wir heute unsere erste Informatikstunden hatten, haben wir uns nach einer Einführung durch Herrn Buhl zunächst einen GitHub-Account angelegt. Anschließend haben wir uns Projekte ehemaliger Schüler angeguckt, um uns erste Eindrücke über die Möglichkeiten zu verschaffen. Zudem haben wir uns die verschiedenen vorgeschlagenen Programmiersprachen angesehen und überlegt, welche davon für uns als Anfänger in Frage kommen könnten.
 
-Da wir diesen Stundenblog führen sollen, haben wir uns zudem den Blog von Herrn Buhl (https://raw.githubusercontent.com/jbuhl/InformatikUnterricht/master/README.md) angesehen, um einen Überblick zu bekommen, wie zum Beispiel Überschirften angelegt werden müssen. Anschleißend haben wir einen eigenen Blog erstellt und den heutigen Eintrag verfasst. 
+Da wir diesen Stundenblog führen sollen, haben wir uns zudem den Blog von Herrn Buhl (https://raw.githubusercontent.com/jbuhl/InformatikUnterricht/master/README.md) angesehen, um einen Überblick zu bekommen, wie zum Beispiel Überschriften angelegt werden müssen. Anschließend haben wir einen eigenen Blog erstellt und den heutigen Eintrag verfasst. 
 
 ## <a name="2"></a> Mittwoch, 04. August 2021
 
@@ -82,18 +82,19 @@ Um die gewählte Programmiersprache zu nutzen, haben wir uns beide einen eigenen
 
 ## <a name="3"></a> Mittwoch, 04. August 2021 
 
-Heute nach der Informatikstunde habe ich (Greta) mich zu Hause noch weiter mit Snap! beschäftigt und erste Versuche unternommen ein Spiel zu programmieren. Mein Ziel war etwas zu schaffen, das mit einem "Laser" einen sich bewegenen Gegenstand abschießen kann, welcher wenn er getroffen wird die Farbe ändert und nach einer Sekunde verschwindet. Das ganze sollte sich durch die Pfeiltasten nach Links und Rechts bewegen lassen. Dafür habe ich einfache Formen mit dem Paint Tool gemalt, da es mir nur darum ging die Programmiersprache zu verstehen und nicht ein wirkliches Spiel mit Animationen zu erstellen. 
+Heute nach der Informatikstunde habe ich (Greta) mich zu Hause noch weiter mit Snap! beschäftigt und erste Versuche unternommen ein Spiel zu programmieren. Mein Ziel war etwas zu schaffen, das mit einem "Laser" einen sich bewegenden Gegenstand abschießen kann, welcher wenn er getroffen wird die Farbe ändert und nach einer Sekunde verschwindet. Das Ganze sollte sich durch die Pfeiltasten nach Links und Rechts bewegen lassen. Dafür habe ich einfache Formen mit dem Paint Tool gemalt, da es mir nur darum ging die Programmiersprache zu verstehen und nicht ein wirkliches Spiel mit Animationen zu erstellen. 
 
-Während des Programmierens habe ich mir verschiedene Tutorials angeshen, in denen verschiedene Schritte erklärt wurden. Für einen ersten Versuch etwas mit Snap! zu programmieren hat es meiner Meinung nach für Testzwecke ganz gut funktioniert und es hat kürzer gedauert als ich erwartet habe. 
+Während des Programmierens habe ich mir verschiedene Tutorials angesehen, in denen verschiedene Schritte erklärt wurden. Für einen ersten Versuch etwas mit Snap! zu programmieren hat es meiner Meinung nach für Testzwecke ganz gut funktioniert und es hat kürzer gedauert als ich erwartet habe. 
 
-Anbei mehrere Screenshots des Codes und einer des einfachgehaltenen Spiels![BDAD82AF-763A-40DE-B13F-29BAB4F28C34](https://user-images.githubusercontent.com/88386040/128574017-0d26d227-1c57-412d-9c56-54bf15c123ec.jpeg)
+Anbei mehrere Screenshots des Codes und einer des einfachgehaltenen Spiels
+![BDAD82AF-763A-40DE-B13F-29BAB4F28C34](https://user-images.githubusercontent.com/88386040/128574017-0d26d227-1c57-412d-9c56-54bf15c123ec.jpeg)
 ![5A54C0D7-583F-4854-A0AB-19041E57F9A0](https://user-images.githubusercontent.com/88386040/128574021-23659eef-983b-4dba-9268-fca7e65c9fbc.jpeg)
 ![7BD37E60-DE95-409A-9D78-83A0B576B89C](https://user-images.githubusercontent.com/88386040/128574023-f7ae731a-f108-4d56-8b3a-3cc4538ee109.jpeg)
 ![6EFA2AEB-3C18-4937-AAB9-33B35627F1F3](https://user-images.githubusercontent.com/88386040/128574198-b6a42051-d8c6-4848-b957-eb4f9206749f.jpeg)
 
 ## <a name="4"></a> Dienstag, 10. August 2021
 
-Heute habe ich (Laura) alleine (da Greta krank war) mich weiter mit Snap! beschäftigt. Mein Ziel für die Stunde war es, dass ich mich noch mal mehr mit Snap! auseinadersetze und die Programmiersprache verstehe. Dafür habe ich auf den Blog von Herrn Buhl die Seite: https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/2-start-your-first-snap-app.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment gefunden. Dort habe ich die erste Unit durchgearbeitet. Jetzt kann mein Kreis zum Beispiel reden, wenn man die grüne Fahne drückt oder er bewegt sich, wenn man auf den Kreis drückt. Außerdem habe ich noch andere Funktionen getestet und habe mein Ziel für die heutige Stunde erreicht. 
+Heute habe ich (Laura) alleine (da Greta krank war) mich weiter mit Snap! beschäftigt. Mein Ziel für die Stunde war es, dass ich mich noch mal mehr mit Snap! auseinandergesetzt und die Programmiersprache verstehe. Dafür habe ich auf den Blog von Herrn Buhl die Seite: https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/2-start-your-first-snap-app.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment gefunden. Dort habe ich die erste Unit durchgearbeitet. Jetzt kann mein Kreis zum Beispiel reden, wenn man die grüne Fahne drückt oder er bewegt sich, wenn man auf den Kreis drückt. Außerdem habe ich noch andere Funktionen getestet und habe mein Ziel für die heutige Stunde erreicht. 
 
 ## <a name="5"></a> Dienstag, 24. August 2021
 
@@ -101,7 +102,7 @@ Heute haben wir zusammen unseren Spielcharakter überarbeitet, der zuvor von uns
 
 ![E09D73DD-3B62-427C-9EC0-2122D7EA06AD](https://user-images.githubusercontent.com/88386040/131507219-c3815d49-416b-4d7f-98a2-086e9f45d7d3.jpeg)
 
-Außerdem haben wir begonnen zu programmieren, dass der Dinosaurier sich durch die Pfeiltasten in verschiedene Richtungen bewegen kann. Dabi hat sich das Problem ergeben, dass der Dinosaurier sich bis jetzt nur über Kopf zurückbewegen kann. Mit diesem Problem werden wir uns in der nächsten Stunde beschäftigen. 
+Außerdem haben wir begonnen zu programmieren, dass der Dinosaurier sich durch die Pfeiltasten in verschiedene Richtungen bewegen kann. Dabei hat sich das Problem ergeben, dass der Dinosaurier sich bis jetzt nur über Kopf zurückbewegen kann. Mit diesem Problem werden wir uns in der nächsten Stunde beschäftigen. 
 
 ## <a name="6"></a> Mittwoch, 25. August 2021
 
@@ -111,13 +112,13 @@ Zudem haben wir programmiert, dass der Dinosaurier, sobald er den Rand berührt,
 
 ## <a name="7"></a> Dienstag, 31. August 2021
 
-Heute haben wir uns zu Beginn der Stunde mit dem realistischen Springen der Figur beschäftigt. Dies hat noch nicht so gut funktioniert. Außerdem haben wir begonnen "Meteoriten" als neue Spites zu erstellen, welche an verschiedenen Stellen und Zeitpunkten auf den Dinosaurier fallen. Wenn man es mit dem Dinosaurier nicht schafft auszuweichen und von einem Meteoriten getroffen wird, stirbt der Dino, bzw. das Costume wird geändert, und wird nach einigen Sekunden wieder in seinem alten, lebenden Costume gezeigt, woraufhin der Spieler weiter spielen kann. Wir haben zudem begonnen die Meteoriten und die weitere Dino-Grafik zu erstellen.
+Heute haben wir uns zu Beginn der Stunde mit dem realistischen Springen der Figur beschäftigt. Dies hat noch nicht so gut funktioniert. Außerdem haben wir begonnen "Meteoriten" als neue Spites zu erstellen, welche an verschiedenen Stellen und Zeitpunkten auf den Dinosaurier fallen. Wenn man es mit dem Dinosaurier nicht schafft auszuweichen und von einem Meteoriten getroffen wird, stirbt der Dino, bzw. das Costume wird geändert, und wird nach einigen Sekunden wieder in seinem alten, lebenden Costume gezeigt, woraufhin der Spieler weiterspielen kann. Wir haben zudem begonnen die Meteoriten und die weitere Dino-Grafik zu erstellen.
 
 Wir müssen jedoch noch Hindernisse erstellen und uns überlegen, ob man beim Treffen eines Meteorits oder Hindernissen ein Leben verliert, nichts passiert oder von vorne begonnen werden muss. Wenn wir diese Frage geklärt haben können wir auch daran weiterarbeiten.
 
 ## <a name="8"></a> Mittwoch, 1. September 2021
 
-Zu Beginn der Stunde haben wir die dritte Dino-Grafik und den Meteoriten fertig gestellt. Diese haben wir begonnen ins Spiel einzufügen und haben die Koordniaten der Dino-Grafik (neu) so eingestellt, dass dieser sich auf unserer "Bodenebene" befindet. 
+Zu Beginn der Stunde haben wir die dritte Dino-Grafik und den Meteoriten fertig gestellt. Diese haben wir begonnen ins Spiel einzufügen und haben die Koordinaten der Dino-Grafik (neu) so eingestellt, dass dieser sich auf unserer "Bodenebene" befindet. 
 
 ![m für grade (1)](https://user-images.githubusercontent.com/88386035/144739771-760727bb-34ad-49a8-a372-badedad14581.png)
 
@@ -125,7 +126,7 @@ Danach hat sich das Problem ergeben, dass der Dinosaurier trotz Durchführung al
 
 ## <a name="9"></a> Freitag, 3. September 2021
 
-Wir haben uns heute getroffen um zu versuchen, Blöcke und Ebenen zu erstellen, welche wir für das Jump and Run verwenden können. Nach ausgiebiger Beschäftigung mit der Problematik und verschiedensten Tutorials, haben wir keine Möglichkeit gefunden, dies für das vorliegende Programm umzusetzen ohne einen Absturz zu verursachen, beziehungsweise zu verhindern, dass das Spiel sich aufhängt und ein Weiterspielen unmöglich wird. Wir werden uns über das Wochenende beide weiterhin damit beschäftigen und nach geeingneten Möglichkeiten suchen. Das Problem der letzten Stunde haben wir bis jetzt nicht gelöst, da die Frage nach einer möglichen Umsetzung für uns dringender scheint, da wir uns sonst auf ein neues Spielkonzept einigen müssen.
+Wir haben uns heute getroffen um zu versuchen, Blöcke und Ebenen zu erstellen, welche wir für das Jump and Run verwenden können. Nach ausgiebiger Beschäftigung mit der Problematik und verschiedensten Tutorials, haben wir keine Möglichkeit gefunden, dies für das vorliegende Programm umzusetzen ohne einen Absturz zu verursachen, beziehungsweise zu verhindern, dass das Spiel sich aufhängt und ein Weiterspielen unmöglich wird. Wir werden uns über das Wochenende beide weiterhin damit beschäftigen und nach geeigneten Möglichkeiten suchen. Das Problem der letzten Stunde haben wir bis jetzt nicht gelöst, da die Frage nach einer möglichen Umsetzung für uns dringender scheint, da wir uns sonst auf ein neues Spielkonzept einigen müssen.
 
 ## <a name="10"></a> Sonntag, 5. September 2021
 
@@ -133,7 +134,7 @@ Heute haben wir, nachdem wir beide versucht haben unser Problem zu beheben, tele
 
 ## <a name="11"></a> Dienstag, 7. September 2021
 
-Ich (Laura) habe ein neues Projekt bei Snap! gestartet, damit wir uns mit unserer neuen Spielrichtung anfangen können. Als erstes habe kch die Meteoriten hinzugefügt. Dabei hat sich nur das Problem ergeben, dass bisher der Meteorit von oben senkrecht runter fällt. Dies ist jedoch nicht wirklich realistisch. Daher habe ich versucht einen Weg zu finden, dass der Meteorit leicht schräg ins Bild fliegt. 
+Ich (Laura) habe ein neues Projekt bei Snap! gestartet, damit wir uns mit unserer neuen Spielrichtung anfangen können. Als erstes habe ich die Meteoriten hinzugefügt. Dabei hat sich nur das Problem ergeben, dass bisher der Meteorit von oben senkrecht runterfällt. Dies ist jedoch nicht wirklich realistisch. Daher habe ich versucht einen Weg zu finden, dass der Meteorit leicht schräg ins Bild fliegt. 
 
 Am Ende der Stunde habe ich das Problem fast gelöst, indem ich ein "point in direction 210" eingefügt habe. Der Meteorit liegt jedoch immer noch nicht ganz richtig. Um das Problem werden wir uns nächste Stunde kümmern. Außerdem müssen wir die dritte Dino-Grafik noch etwas runter setzen, damit das ganze realistischer aussieht. 
 
@@ -149,7 +150,7 @@ Heute haben wir uns weiter mit der Meteoriten-Grafik und der Grafik des toten Di
 
 Bei der Beschäftigung mit dem Problem des Meteoriten, haben wir uns geeinigt, dass diese doch nur senkrecht nach unten fallen sollen, da dies das Spiel vereinfacht und eine Lösung für das Problem zu finden, vereinfacht. Nachdem wir die Grafik mit Hilfe von Procreate gedreht und angepasst haben, konnten wir sie erneut ins Spiel einfügen und richtig positionieren. Somit haben wir die beiden Probleme der letzten Stunden erfolgreich gelöst und haben noch einen weiteren Meteoriten hinzugefügt. 
 
-Wir haben außerdem damit begonnen den Hintergrund zu gestalten. Dafür haben wir bereits einen Vulkan in Pixel Grafik estellt. Dies werden wir in der nächsten Stunde fortsetzen. 
+Wir haben außerdem damit begonnen den Hintergrund zu gestalten. Dafür haben wir bereits einen Vulkan in Pixel Grafik erstellt. Dies werden wir in der nächsten Stunde fortsetzen. 
 
 ![inf 21 2](https://user-images.githubusercontent.com/88386040/134183772-1c28061e-7057-4f72-8633-f457c48d4424.PNG)
 
@@ -157,11 +158,11 @@ Wir haben außerdem damit begonnen den Hintergrund zu gestalten. Dafür haben wi
 
 ## <a name="14"></a> Mittwoch, 22. September 2021
 
-Wir haben heute weiter an dem Hintergrund gearbeitet. Dafür haben wir den Vulkan aus der letzten Stunde weiter bearbeitet und zusätzliche eine Palme erstellt, welche wir in den Hintergrund einfügen wollen. Unser Ziel ist es den Hintergund in den nächsten Stunden fertig zu stellen.  
+Wir haben heute weiter an dem Hintergrund gearbeitet. Dafür haben wir den Vulkan aus der letzten Stunde weiterbearbeitet und zusätzliche eine Palme erstellt, welche wir in den Hintergrund einfügen wollen. Unser Ziel ist es den Hintergrund in den nächsten Stunden fertig zu stellen.  
 
 ## <a name="15"></a> Dienstag, 28. September 2021
 
-Wir haben heute noch mehr Meteoriten zu dem Spiel hinzugefügt. Diese fallen jetzt zu verschieschedenen Zeitpunkten und an verschiedenen Stellen herunter. Außerdem haben wir den Hintergrund weiter bearbeitet. Der Hintergrund ist noch nicht ganz fertig gestellt, darum werden wir diesen nächste Stunde noch weiter bearbeiten. Wir haben uns außerdem mit dem Ende des Spiel befasst. 
+Wir haben heute noch mehr Meteoriten zu dem Spiel hinzugefügt. Diese fallen jetzt zu verschieden Zeitpunkten und an verschiedenen Stellen herunter. Außerdem haben wir den Hintergrund weiterbearbeitet. Der Hintergrund ist noch nicht ganz fertig gestellt, daran werden wir Diesen in den nächste Stunde noch weiterbearbeiten. Wir haben uns außerdem mit dem Ende des Spiels befasst. 
 
 ![28  September Screen](https://user-images.githubusercontent.com/88386040/135101856-74ddb93a-5800-493e-9072-2878ab639fc3.PNG)
 
@@ -171,7 +172,7 @@ Unser Ziel diese Woche ist es einen "GAME OVER // TRY AGAIN" Screen zu erstellen
 
 Außerdem haben wir uns geeinigt die zwei Meteoriten "m 2(10)" und "m2(11)" aus dem Spiel zu entfernen, da dies ein flüssigeres laufen des Spiels und bisher weniger Probleme durch ein Einfrieren des Spiels ermöglicht hat.
 
-Der "GAME OVER // TRY AGAIN" wurde von uns in Procreate erstelt und zu einer PNG umformatiert. Wir haben uns für eine simple schwarze Schrift geeinigt, da diese vor dem eigentlichen Hintergrund auftauchen soll: 
+Der "GAME OVER // TRY AGAIN" wurde von uns in Procreate erstellt und zu einer PNG umformatiert. Wir haben uns für eine simple schwarze Schrift geeinigt, da diese vor dem eigentlichen Hintergrund auftauchen soll: 
 
 ![22F2FDDB-D00A-4847-9B9E-E5E81534F747](https://user-images.githubusercontent.com/88386040/137928259-6b416c7e-aaa8-4020-914e-215965a1fc73.png)
 
@@ -185,7 +186,7 @@ In der heutigen Stunde haben wir versucht das Problem mit dem "GAME OVER // TRY 
 
 Laura und ich waren gestern in unserer Informatik-Doppelstunde leider krank, weshalb wir nach einem Termin zum Nachholen der verpassten Zeit suchen. 
 
-In der heutigen Stunde konnten wir leider nicht an unserem Snap! Projekt weiterarbeiten, da der Computer die erste halbe Stunde mehrere Updates durchgeführt hat, welche man nicht unterbrechen konnte, und danach schon beim öffnen des Internet Browsers abgestürzt ist. 
+In der heutigen Stunde konnten wir leider nicht an unserem Snap! Projekt weiterarbeiten, da der Computer die erste halbe Stunde mehrere Updates durchgeführt hat, welche man nicht unterbrechen konnte, und danach schon beim Öffnen des Internet Browsers abgestürzt ist. 
 
 Die Seite Snap! konnten wir nur einmal öffnen, doch nachdem der Computer erneut abgestürzt ist, haben wir uns entschlossen, stattdessen unsere letzten Github-Einträge grammatikalisch zu überarbeiten. 
  
@@ -193,18 +194,18 @@ Die Seite Snap! konnten wir nur einmal öffnen, doch nachdem der Computer erneut
 
 ## <a name="19"></a> Dienstag, 02. November 2021
 
-In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande und teilweise war gar kein Spiel möglich, da der Dino und die Meteoriten in der Luft hängen geblieben sind und nicht zurück gesetzt werden konnten. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet plötzlich. Dies betrifft nicht nur den lebenden Dino, sondern auch den toten Dino (siehe Bild). Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren und den Fehler zu finden. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
+In der heutigen Stunde haben wir versucht unsere Probleme zu lösen. Dabei ist uns aufgefallen das Snap! mit unseren vielen verschiedenen gleichzeitig ablaufenden Ausführungen überfordert ist. Daher kommt kein wirklich flüssiger Spielverlauf zustande und teilweise war gar kein Spiel möglich, da der Dino und die Meteoriten in der Luft hängen geblieben sind und nicht zurückgesetzt werden konnten. Außerdem führt es zu anderen Problemen zum Beispiel läuft der Dino nicht mehr richtig oder verschwindet plötzlich. Dies betrifft nicht nur den lebenden Dino, sondern auch den toten Dino (siehe Bild). Daher haben wir uns entschieden noch einmal in einer neuen Datei alle Ausführungen auf ihre Funktion zu kontrollieren und den Fehler zu finden. Dabei ist uns kein wirklicher Fehler aufgefallen und wir werden in der nächsten Stunde überlegen wie wir einen flüssigeren Spielverlauf ermöglichen können. 
 
 ![Bild dino](https://user-images.githubusercontent.com/88386035/143237691-a8ceff92-c5bf-4c33-b228-da31f240534f.PNG)
 
 ## <a name="20"></a> Mittwoch, 03. November 2021
 
-In der heutigen Stunde haben wir überlegt das es vielleicht hilfreich wäre, wenn der Dino sich nicht bewegt sondern der Hintergund. Dabei könnte man die von uns erstellten Meteoriten auf den Dino fallen lassen und man muss mit den Dino gleichzeitig von Plattform zu Plattform hüpfen. Das heißt es wäre eine Art Jump and Run Spiel kombiniert mit unseren Meteoriten. 
+In der heutigen Stunde haben wir überlegt das es vielleicht hilfreich wäre, wenn der Dino sich nicht bewegt sondern der Hintergrund. Dabei könnte man die von uns erstellten Meteoriten auf den Dino fallen lassen und man muss mit den Dino gleichzeitig von Plattform zu Plattform hüpfen. Das heißt es wäre eine Art Jump and Run Spiel kombiniert mit unseren Meteoriten. 
 Dafür haben wir als erstes den Dino eingebaut und verschiedene Techniken ausprobiert. Der Plan ist es verschiedene Blöcke einzubauen, die an bestimmte Koordinaten gesetzt werden, damit ein dauerhafter Boden mit eventuellen Hindernissen entsteht. 
 
 ## <a name="21"></a> Mittwoch, 10. November 2021
 
-In der heutigen Stunde haben wir uns ein Jump and Run Tutorial angesehen, in dem verschiedenen Ränder erstellt wurden, welche den Bildschirm abgrenzen. Es wurde erlklärt, dass dies esseziell sei, weshalb wir einen Sensor für jede Bildschirmseite erstellt haben.
+In der heutigen Stunde haben wir uns ein Jump and Run Tutorial angesehen, in dem verschiedenen Ränder erstellt wurden, welche den Bildschirm abgrenzen. Es wurde erklärt, dass dies essenziell sei, weshalb wir einen Sensor für jede Bildschirmseite erstellt haben.
 
 ![sensor2](https://user-images.githubusercontent.com/88386040/144072536-07f709c8-e9d5-4283-b007-4d19c78a7eed.png)
 
@@ -224,7 +225,7 @@ Außerdem haben wir den Boden in das Spiel eingefügt und die Größe und Lage s
 
 ## <a name="23"></a> Mittwoch, 17. November 2021
 
-In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf dem sich der Dino bewegen kann (siehe Bild). Das Spiel hat am Anfang der Stunde gut funktioniert und der Dino ist auf der Plattform stehen geblieben. Es hat alles funktioniert wie es sollte, jedoch am Ende der Stunde ist der Dino nicht mehr stehen geblieben, sondern durch die Plattformen durchgefallen (siehe Bild). Das einzige was wir am Spiel in der Stunde verändert hatten waren die neuen Plattformen und Säulen. Wir haben versucht das Problem zu beheben, doch dabei sind wir noch zu keiner Lösung gekommen. Wir werden uns am Wochende treffen um an dem Spiel weiterzuarbeiten und hoffentlich das Problem zu lösen. 
+In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf dem sich der Dino bewegen kann (siehe Bild). Das Spiel hat am Anfang der Stunde gut funktioniert und der Dino ist auf der Plattform stehen geblieben. Es hat alles funktioniert wie es sollte, jedoch am Ende der Stunde ist der Dino nicht mehr stehen geblieben, sondern durch die Plattformen durchgefallen (siehe Bild). Das Einzige was wir am Spiel in der Stunde verändert hatten waren die neuen Plattformen und Säulen. Wir haben versucht das Problem zu beheben, doch dabei sind wir noch zu keiner Lösung gekommen. Wir werden uns am Wochenende treffen um an dem Spiel weiterzuarbeiten und hoffentlich das Problem zu lösen. 
 
 ![Säulen ](https://user-images.githubusercontent.com/88386035/143240424-c3c2ce39-7082-45d9-8a22-b7621d8db83b.PNG)
 
@@ -232,24 +233,24 @@ In der Stunde haben wir es geschafft neue Plattformen und Säulen einzubauen auf
 
 ## <a name="24"></a> Samstag, 20. November 2021
 
-Wir haben uns heute getroffen um das Problem zu lösen. Wir möchten, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffäligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in die alte Richtung zu bringen. Wir wollen unser Spiel von Anfang mit dem anderen Spiel verknüpfen. 
+Wir haben uns heute getroffen um das Problem zu lösen. Wir möchten, dass der Dino auf der Plattform stehen bleibt und nicht durch die Plattform fällt. Erst einmal haben wir alle Funktionen überprüft. Dabei haben wir keinen auffälligen Fehler gefunden. Das Spiel sollte eigentlich flüssig laufen und der Dino sollte auf der Plattform stehen bleiben und nicht durchfallen. Nach langen überlegen und keinen gefunden Fehler haben wir uns entschieden unser Spiel noch einmal in die alte Richtung zu bringen. Wir wollen unser Spiel von Anfang mit dem anderen Spiel verknüpfen. 
 
 Wir haben den Dino und den Boden bereits in ein neues Projekt bei Snap! eingefügt. 
 
-Außerdem haben wir den Schriftzug "START" eingebaut. Sobald man Start anklickt, wird "Spiel Beginn" gebroadcastet und das Spiel beginnt. Dies ist der erste Versuch etwas mit den Blöcken "broadcast" und "when I receive" zu machen. Wenn sich dies als erfolgreich erweist, werdem wir weitere Funktionen damit einbauen.
-Der Dino ist in der vorderen Ebene und taucht auf, sobald auf die Schrift Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit den Spiel beschäftigen.
+Außerdem haben wir den Schriftzug "START" eingebaut. Sobald man Start anklickt, wird "Spiel Beginn" gebroadcastet und das Spiel beginnt. Dies ist der erste Versuch etwas mit den Blöcken "broadcast" und "when I receive" zu machen. Wenn sich dies als erfolgreich erweist, werden wir weitere Funktionen damit einbauen.
+Der Dino ist in der vorderen Ebene und taucht auf, sobald auf die Schrift Start gedrückt wird. Der Dino bewegt sich mit den rechten und linken Pfeiltaste. Wir werden uns Dienstag weiter mit dem Spiel beschäftigen.
 
 ## <a name="25"></a> Dienstag, 23. November 2021
 
 Wir haben zusammen an dem Spiel weitergearbeitet. Greta war heute krank, jedoch haben wir telefoniert und so konnten wir zusammen weiterarbeiten.
-Wir haben heute das "Game Over" hinzugefügt. Dies taucht auf, sobald die Lebensanzeige gleich null ist, da "Game Over" gebroadcastet werden soll, also wenn der Dino von drei Metoeriten getroffen wurde. Am Anfang ist der Schriftzug versteckt. Eine Funktion führt dazu, dass der ganze Spielablauf gestoppt wird, wenn der Dino von drei Meteoriten getroffen wurde. 
+Wir haben heute das "Game Over" hinzugefügt. Dies taucht auf, sobald die Lebensanzeige gleich null ist, da "Game Over" gebroadcastet werden soll, also wenn der Dino von drei Meteoriten getroffen wurde. Am Anfang ist der Schriftzug versteckt. Eine Funktion führt dazu, dass der ganze Spielablauf gestoppt wird, wenn der Dino von drei Meteoriten getroffen wurde. 
 
 Außerdem haben wir die Meteoriten hinzugefügt. Wir haben dieses Mal nicht wie beim letzten Mal mehrere Sprites erstellt, sondern einen Meteoriten, der während des Spiels immer wieder geklont wird, da wir somit das Problem des ersten Spieles, also, dass sich das Spiel durch zu viele Sprites und ablaufende Funktionen aufhängt, gelöst haben.
 Dabei kann er sich jedes Mal eine Position zwischen -200 und 200 aussuchen. Somit ist es jedes Mal zufällig, wo der Meteorit herunterfällt.
 
 ![lol](https://user-images.githubusercontent.com/88386035/144740193-7dc2e471-37f5-4520-9608-ecb3e495a9f9.PNG)
 
-Eine weitere Funktion die die Meteoriten haben, ist dass sie dem Dino ab heute Leben abziehen können, wenn sie ihn treffen. Somit stirbt der Dino nicht direkt, sondern man hat drei Chancen. Dafür haben wir eine Variable "Leben" erstellt und diese zu drei gesetzt. Für diese haben wir zuerst vier Costumes designed, nämlich jeweils für drei bis null Herzen. 
+Eine weitere Funktion die die Meteoriten haben, ist dass sie dem Dino ab heute Leben abziehen können, wenn sie ihn treffen. Somit stirbt der Dino nicht direkt, sondern man hat drei Chancen. Dafür haben wir eine Variable "Leben" erstellt und diese zu drei gesetzt. Für diese haben wir zuerst vier Costumes designet, nämlich jeweils für drei bis null Herzen. 
 
 ![herzen drei](https://user-images.githubusercontent.com/88386040/144076484-50237ed6-70b0-4a6a-91d9-e54986e25343.png)
 
@@ -259,7 +260,7 @@ Eine weitere Funktion die die Meteoriten haben, ist dass sie dem Dino ab heute L
 
 ## <a name="26"></a> Mittwoch, 24. November 2021
 
-Ich (Laura, da Greta immer noch krank war) habe heute die Lebensanzeige eingefügt. Diese verliert jedes Mal ein Herz, wenn ein Meteorit den Dino auf ihn trifft. Außerdem habe ich den toten Dino hinzugefügt. Dieser wird angezeigt, wenn der Schriftzug Game Over eingeblendet wird. Dabei war das Problem, dass der Dino nicht auf der richtigen Höhe war. Deshalb habe noch ein set y to -50 eingefügt. Jetzt liegt der tote Dino genau auf den Boden. Der tote Dino taucht auf sobald alle drei Leben verloren sind. 
+Ich (Laura, da Greta immer noch krank war) habe heute die Lebensanzeige eingefügt. Diese verliert jedes Mal ein Herz, wenn ein Meteorit den Dino auf ihn trifft. Außerdem habe ich den toten Dino hinzugefügt. Dieser wird angezeigt, wenn der Schriftzug Game Over eingeblendet wird. Dabei war das Problem, dass der Dino nicht auf der richtigen Höhe war. Deshalb habe noch ein "set y to -50" eingefügt. Jetzt liegt der tote Dino genau auf den Boden. Der tote Dino taucht auf sobald alle drei Leben verloren sind. 
 
 ![block 2](https://user-images.githubusercontent.com/88386035/144740808-d5ceb3f7-8eda-487e-8e67-616a6dab48a0.PNG)
 
