@@ -205,6 +205,7 @@ Dafür haben wir als erstes den Dino eingebaut und verschiedene Techniken auspro
 ## <a name="21"></a> Mittwoch, 10. November 2021
 
 In der heutigen Stunde haben wir uns ein Jump and Run Tutorial angesehen, in dem verschiedenen Ränder erstellt wurden, welche den Bildschirm abgrenzen. Es wurde erlklärt, dass dies esseziell sei, weshalb wir einen Sensor für jede Bildschirmseite erstellt haben.
+
 ![sensor2](https://user-images.githubusercontent.com/88386040/144072536-07f709c8-e9d5-4283-b007-4d19c78a7eed.png)
 
 ![Sensor Bild](https://user-images.githubusercontent.com/88386040/144072661-bc851852-c223-42e8-8a7e-3928f6e38ffa.png)
@@ -281,6 +282,8 @@ Laura war heute krank. Ich habe den Hintergrund, den wir letzte Stunde erstellt 
 Außerdem habe ich mich damit auseinandergesetzt, wie man ein Inhaltsverzeichnis bei unserem Blog einfügen kann. Nachdem ich verstanden habe wie es geht, habe ich jeden Stundeneintrag in das Inhaltsverzeichnis übernommen. Man kann jetzt also im Inhaltsverzeichnis auf ein Datum klicken und wird dann automatisch auf den Eintrag des Tages weitergeleitet.
 
 Am Nachmittag habe ich mit der Projektseite begonnen und diese zu gestalten. Den Blog habe ich in ein Inhaltsverzeichnis unterteilt. Dabei werde ich erstmal die Idee hinter dem Spiel an sich erklären.
+
+Link zur Projektseite: https://github.com/itsamegreta/Projektseite-HJ1
 
 ## <a name="29"></a> Sonntag, 3. Dezember 2021
 
